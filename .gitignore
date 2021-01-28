@@ -1,0 +1,9 @@
+*.gem
+.bundle
+.DS_Store
+.sass-cache
+_site
+Gemfile.lock
+drafts
+.jekyll-cache
+_pages/links-draft.md
