@@ -16,7 +16,7 @@ permalink: /contact/
 
 - Twitch: [accumulationvector](https://www.twitch.tv/accumulationvector)
 
-- [AnchorFM Podcast](https://anchor.fm/accumulationvector)
+- AnchorFM: [accumulationvector](https://anchor.fm/accumulationvector)
 
 - XTZ: tz1gokCxpgStN91AYkc6aLucX9DyCRKmRs5F
 

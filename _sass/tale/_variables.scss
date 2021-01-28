@@ -1,20 +1,19 @@
 // Colors
-$default-color: rgb(61, 61, 61);
-$default-shade: #353535;
-$default-tint: #aaa;
-$grey-1: #757575;
-$grey-2: #e5e5e5;
-$grey-3: #f9f9f9;
-$white: #fff;
-$blue: #2288e2;
-$shadow-color: rgba(0, 0, 0, .2);
-$code-color: #bf616a;
-
+$default-color: rgb(61, 61, 61) !default;
+$default-shade: #353535 !default;
+$default-tint: #aaa !default;
+$grey-1: #757575 !default;
+$grey-2: #e5e5e5 !default;
+$grey-3: #f9f9f9 !default;
+$white: #fff !default;
+$blue: #1471c2 !default;
+$shadow-color: rgba(0, 0, 0, .2) !default;
+$code-color: #bf616a !default;
 // Fonts
-$serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif;
-$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
-$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
-$monospaced: Menlo, Monaco, monospace;
+$serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif !default;
+$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif !default;
+$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
+$monospaced: Menlo, Monaco, monospace !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
