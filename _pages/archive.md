@@ -7,9 +7,9 @@ permalink: /archive/
 
 # 2021
 
-- January 31, 2021 >> [Deer Photography]()
+- January 31, 2021 >> [Deer Photography](https://accumulationvector.com/2021-01-31/deer-photography)
 
-- January 28, 2021 >> [Site Updates/New Projects]()
+- January 28, 2021 >> [Site Updates/New Projects](https://accumulationvector.com/2021-01-28/site-updates)
 
 # 2020
 
