@@ -9,6 +9,22 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
+## February 2021
+
+- [Social Contagion: Microbiological Class War](http://chuangcn.org/2020/02/social-contagion/) - [Archive](https://archive.is/AC4R4)<br>
+
+- [AutoCrypt: Convenient End-to-End Encryption for E-Mail](https://autocrypt.org/index.html) - [Archive](https://archive.is/tEPVI)<br>
+
+- [The OceanStore Project](https://archive.is/Urhg4)<br>
+
+- [The Spirit of God in Hebrew Bible (2019)](https://sci-hub.st/alexandra/works/spiritus.pdf)<br>
+
+- [Great Founder Theory Manuscript by Samo Burja](http://samoburja.com/wp-content/uploads/2020/11/Great_Founder_Theory_by_Samo_Burja_2020_Manuscript.pdf) - [Archive](https://webcache.googleusercontent.com/search?q=cache:http://samoburja.com/wp-content/uploads/2020/11/Great_Founder_Theory_by_Samo_Burja_2020_Manuscript.pdf)<br>
+
+- [Anarchitectural Design](https://anarchitecturaldesign.wordpress.com/) - [Archive](https://archive.is/m1Dm6)<br>
+
+- [Authoritarianism Through Coding: Signal](https://www.oyd.org.tr/en/articles/signal/) - [Archive](https://archive.is/BdRxh)<br>
+
 ## January 2021
 
 - [How do we tell truths that might hurt? - Dijkstra](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD498.html) - [Archive](https://archive.is/qRmh)<br>
