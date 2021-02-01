@@ -7,6 +7,9 @@ permalink: /archive/
 
 # 2021
 
+- January 31, 2021 >> [Deer Photography]()
+
+- January 28, 2021 >> [Site Updates/New Projects]()
 
 # 2020
 

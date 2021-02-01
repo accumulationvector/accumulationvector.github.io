@@ -10,7 +10,7 @@ The writing here reflects my current thought process on various topics, if you s
 
 In the spirit of several other bloggers that I enjoy, posts here are not static, and will be updated with time. This seems to bother some people, but I endlessly enjoy improving my posts as I go.
 
-The changes made to this blog are all publically recorded and dated in the commit history, so older versions of posts will never be removed or deleted. That said, I don't plan to include changelogs or last modified dates on any specific posts unless I completely redo significant portions of them.
+The changes made to this blog are all publicly recorded and dated in the commit history, so older versions of posts will never be removed or deleted. That said, I don't plan to include changelogs or last modified dates on any specific posts unless I completely redo significant portions of them.
 
 ## Site Design
 
