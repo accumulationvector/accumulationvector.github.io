@@ -17,7 +17,7 @@ These are in reverse chronological order.
 
 - [Great Founder Theory Manuscript by Samo Burja](http://samoburja.com/wp-content/uploads/2020/11/Great_Founder_Theory_by_Samo_Burja_2020_Manuscript.pdf) - [Archive](https://webcache.googleusercontent.com/search?q=cache:http://samoburja.com/wp-content/uploads/2020/11/Great_Founder_Theory_by_Samo_Burja_2020_Manuscript.pdf)<br>
 
-- [Anarchitectural Design](https://anarchitecturaldesign.wordpress.com/) - [Archive](https://archive.is/m1Dm6)<br>
+- [Anarchitectural Design](https://anarchitecturaldesign.org/) - [Archive](https://archive.is/m1Dm6)<br>
 
 - [Authoritarianism Through Coding: Signal](https://www.oyd.org.tr/en/articles/signal/) - [Archive](https://archive.is/BdRxh)<br>
 
