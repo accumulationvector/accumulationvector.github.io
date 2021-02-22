@@ -11,6 +11,8 @@ permalink: /archive/
 
 - January 28, 2021 >> [Site Updates/New Projects](https://accumulationvector.com/2021-01-28/site-updates)
 
+- January 15, 2021 >> [Cyber-Deception Notes](https://accumulationvector.com/2021-01-15/Cyberdeception-Notes)
+
 # 2020
 
 - October 22, 2020 >> [Garden Photography](https://accumulationvector.com/2020-10-22/garden-photography)

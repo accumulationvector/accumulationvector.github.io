@@ -9,6 +9,22 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
+## March 2021
+
+- [Against Orthogonality](https://archive.is/x44Zn)<br>
+
+- [General purpose intelligence: arguing the Orthogonality thesis](https://www.lesswrong.com/posts/nvKZchuTW8zY6wvAj/general-purpose-intelligence-arguing-the-orthogonality) - [Archive](https://archive.is/QmesE)<br>
+
+- [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) - [Archive](https://archive.is/c9qb8)<br>
+
+- [Why I Still Lisp (and You Should Too)](https://medium.com/better-programming/why-i-still-lisp-and-you-should-too-18a2ae36bd8) - [Archive](https://archive.is/myPEp)<br>
+
+- [The Fall of Silicon Valley](https://www.robrhinehart.com/the-fall-of-silicon-valley/) - [Archive](https://archive.is/Vp9dG)<br>
+>I remember the fall of Silicon Valley. I was there. People still live in Rome long after the collapse of the Roman Empire, and people continue to live and work in Silicon Valley. But it is not the same. The spirit of innovation is gone.<br>
+
+- [Multipathing Traffic to Reduce Entry Node Exposure in Onion Routing](https://www.comsys.rwth-aachen.de/fileadmin/papers/2019/2019-pennekamp-multipathing.pdf)<br>
+>Users of an onion routing network, such as Tor, depend on its anonymity properties. However, especially malicious entry nodes, which know the client’s identity, can also observe the whole communication on their link to the client and, thus, conduct several de-anonymization attacks. To limit this exposure and to impede corresponding attacks, we propose to multipath traffic between the client and the middle node to reduce the information an attacker can obtain at a single vantage point.<br>
+
 ## February 2021
 
 - [Social Contagion: Microbiological Class War](http://chuangcn.org/2020/02/social-contagion/) - [Archive](https://archive.is/AC4R4)<br>
