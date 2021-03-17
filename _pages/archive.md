@@ -7,11 +7,15 @@ permalink: /archive/
 
 # 2021
 
+- February 28, 2021 >> [Now](https://accumulationvector.com/2021-03-01/now)
+
 - January 31, 2021 >> [Deer Photography](https://accumulationvector.com/2021-01-31/deer-photography)
 
 - January 28, 2021 >> [Site Updates/New Projects](https://accumulationvector.com/2021-01-28/site-updates)
 
 - January 15, 2021 >> [Cyber-Deception Notes](https://accumulationvector.com/2021-01-15/Cyberdeception-Notes)
+
+- January 03, 2021 >> [How I Used Libraries](https://accumulationvector.com/2021-01-03/how-i-used-libraries)
 
 # 2020
 
