@@ -6,8 +6,7 @@ permalink: /contact/
 ---
 
 <br>
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA256
 
 - Email: [accumulation-vector@riseup.net](mailto:accumulation-vector@riseup.net)
 
@@ -42,6 +41,7 @@ V60Yc8vvYtn3Uc8XTlKoEmSyV7IxGWpy3qSS6IpEdX2IctO0W6lMDzj7cL0XjmV1
 8KNCz3oATI2J8C/5T7ytbOJFGbVRNXYxO2dRHvP3D5HKQkxzdf8Z8D1KX/qZrBv6
 Yjhjv+eBfWKG4NBZVRJv5O0pSfSIErovV4sfuGNx+DR+4kSRO/o=
 =kvF4
+
 -----END PGP SIGNATURE-----
 
 <br>
