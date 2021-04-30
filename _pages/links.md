@@ -9,6 +9,22 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
+## April 2021
+
+- [Nosuchlabs](http://nosuchlabs.com/) - [Archive](https://archive.is/oH9Xz)<br>
+
+- [How to Recycle Random Bits](https://www.cs.utexas.edu/users/diz/pubs/recycle.pdf)<br>
+
+- [Anonymous Card Shuffling and its Applications to Parallel Mixnets](https://arxiv.org/abs/1205.1579) - [PDF](https://arxiv.org/pdf/1205.1579.pdf)<br>
+
+- [A Look At Generalized Perfect Shuffles](https://arxiv.org/abs/2009.09349) - [PDF](https://arxiv.org/pdf/2009.09349.pdf)<br>
+
+- [Is APL dead? Not anymore](https://www.sacrideo.us/is-apl-dead/) - [Archive](https://archive.is/OTGyT)<br>
+>Is APL dead? Not anymore. Changes in modern hardware, business needs, development methods, and our understanding of programming makes APL in its modern state perhaps more relevant and viable than ever before.<br>
+
+- [I'm Going To Use My Real Name Everywhere](https://okrefusal.com/posts/im-going-to-use-my-real-name-everywhere/) - [Followup](https://putanumonit.com/2020/07/20/real-name/)<br>
+>I had decided to use a pseudonym online to put out my political and philosophical thoughts. The central reason for this was the fear of being cancelled and potentially hurting my career and employment. Recently I’ve been rethinking this and decided to abandon the pseudonym and use my real name instead, let me tell you why.<br>
+
 ## March 2021
 
 - [Against Orthogonality](https://archive.is/x44Zn)<br>
