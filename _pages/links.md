@@ -9,6 +9,23 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
+# May 2021
+
+- [Attacks on Tor](https://github.com/Attacks-on-Tor/Attacks-on-Tor)<br>
+
+- [Cypherspace](http://archive.is/z6ozv)<br>
+
+- [Hiding Among the Clones: A Simple and Nearly Optimal Analysis of Privacy Amplification by Shuffling](https://arxiv.org/abs/2012.12803) - [PDF](https://arxiv.org/pdf/2012.12803.pdf)<br>
+
+- [Traffic Confirmation Attacks Despite Noise](https://arxiv.org/abs/1601.04893) - [PDF](https://arxiv.org/pdf/1601.04893.pdf)<br>
+>We propose a traffic confirmation attack on low-latency mix networks based on computing robust real-time binary hashes of network traffic flows. Firstly, we adapt the Coskun-Memon Algorithm to construct hashes that can withstand network impairments to allow fast matching of network flows. The resulting attack has a low startup cost and achieves a true positive match rate of 80% when matching one flow out of 9000 with less than 2% false positives, showing traffic confirmation attacks can be highly accurate even when only part of the network traffic flow is seen.<br>
+
+- [Opportunistic multi-party shuffling for data reporting privacy](https://arxiv.org/abs/2003.05273) - [PDF](https://arxiv.org/pdf/2003.05273.pdf)<br>
+>An important feature of data collection frameworks, in which voluntary participants are involved, is that of privacy. Besides data encryption, which protects the data from third parties in case the communication channel is compromised, there are schemes to obfuscate the data and thus provide some anonymity in the data itself, as well as schemes that 'mix' the data to prevent tracing the data back to the source by using network identifiers.<br> This mixing is usually implemented by utilizing special mix networks in the data collection framework. In this paper we focus on schemes for mixing the data where the participants do not need to trust the mix network or the data collector with hiding the source of the data so that we can evaluate the efficacy of peer to peer mixing strategies in the real world.<br>
+
+- [Scams in modern societies: how does China differ from the world? ](https://arxiv.org/abs/2012.14867) - [PDF](https://arxiv.org/pdf/2012.14867.pdf)<br>
+>We study a set of high-profile scams that were well engineered and have hit people hard in China in recent years. We propose a simple but novel theoretical framework to examine psychological, situational and social fabric factors that have played a role in these scams. We also use this framework as a tool to explore scam countermeasures. In so doing, we identify how these Chinese scams differ from their Western counterparts.<br>
+
 ## April 2021
 
 - [Nosuchlabs](http://nosuchlabs.com/) - [Archive](https://archive.is/oH9Xz)<br>
