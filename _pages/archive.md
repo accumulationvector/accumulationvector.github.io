@@ -7,7 +7,9 @@ permalink: /archive/
 
 # 2021
 
-- February 28, 2021 >> [Now](https://accumulationvector.com/2021-03-01/now)
+- March 01, 2021 >> [Now](https://accumulationvector.com/2021-03-01/now)
+
+- February 18, 2021 >> [Operating Systems without Systemd]()
 
 - January 31, 2021 >> [Deer Photography](https://accumulationvector.com/2021-01-31/deer-photography)
 
@@ -19,11 +21,11 @@ permalink: /archive/
 
 # 2020
 
+- November 16, 2020 >> [Selling Shares of Yourself](https://accumulationvector.com/2020-10-16/selling-shares-of-yourself)
+
 - October 22, 2020 >> [Garden Photography](https://accumulationvector.com/2020-10-22/garden-photography)
 
 - October 20, 2020 >> [Fall Update / Podcast Idea](https://accumulationvector.com/2020-10-20/update-podcast-info)
-
-- October 16, 2020 >> [Selling Shares of Yourself](https://accumulationvector.com/2020-10-16/selling-shares-of-yourself)
 
 - October 08, 2020 >> [Hyper-Optimizing Housing Markets](https://accumulationvector.com/2020-10-08/hyper-optimizing-housing)
 
