@@ -7,7 +7,7 @@ author: "accumulation-vector"
 >“As laid out in today’s indictment, North Korea’s operatives, using keyboards rather than guns, stealing digital wallets of cryptocurrency instead of sacks of cash, are the world’s leading bank robbers,”
 <cite>&mdash; Assistant Attorney General John C. Demers of the Justice Department’s National Security Division</cite>
 
-Last month, a series of [federal indictments](https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+A few months back, a series of [federal indictments](https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 ) served on North Korean hackers was released by the Department of Justice. In these documents, they go through a long laundry list of details about North Korean hackers that sheds an intriguing light on what it is like to be a top hacker in North Korea. In this post, I'm going to calculate up an estimate of how much North Korean hackers make and draw a few interesting parallels between how these gangs operate and startup culture.
 
 First off, as a preliminary, it should be noted that nation state hackers operate differently from normal hackers in that they have a much easier time of operating since they know that in a given worst case scenario they can't actually be arrested by anyone. Nation state hackers are often actually worse than traditional hackers because they have fewer constraints, they can be as sloppy as they want while still not getting caught so often they are free to do more things and attempt a larger volume of hacks than someone fearing capture would be able to pull off. 
