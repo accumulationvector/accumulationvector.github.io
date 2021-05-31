@@ -7,7 +7,11 @@ permalink: /archive/
 
 # 2021
 
-- March 01, 2021 >> [Now](https://accumulationvector.com/2021-03-01/now)
+- April 12, 2021 >> [North Korean Hacker Profit Margins]()
+
+- March 14, 2021 >> [Jon Jost's Speaking Directly]()
+
+- March 01, 2021 >> [Now Page](https://accumulationvector.com/2021-03-01/now)
 
 - February 18, 2021 >> [Operating Systems without Systemd]()
 

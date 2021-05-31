@@ -18,7 +18,7 @@ If you want to learn more about any of these cases I've been reading opinions an
 - [Carpenter v. United States](https://www.oyez.org/cases/2017/16-402)<br>
 >Does the warrantless search and seizure of cell phone records, which include the location and movements of cell phone users, violate the Fourth Amendment?<br>
 
-- [United States v. Dunn](https://www.oyez.org/cases/1978/77-6949)<BR>
+- [United States v. Dunn](https://www.oyez.org/cases/1986/85-998)<BR>
 >Is a search warrant needed to peer into the open side of a barn that is located in a field on private property?<br>
 
 - [Kastigar v. United States](https://www.oyez.org/cases/1971/70-117)<br>
