@@ -9,7 +9,21 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
-# May 2021
+## June 2021
+
+- [Philosophy of Technology Reading List](https://dataswamp.org/~john/assets/writings.html) - [Archive](https://archive.is/RYxrY)<br>
+
+- [Beaker Browser](https://beakerbrowser.com/) - [Archive](https://archive.is/rbIrY)<br>
+
+- [Practical Techniques for Searches on Encrypted Data](https://people.eecs.berkeley.edu/~dawnsong/papers/se.pdf)<br>
+
+- [On Privacy Notions in Anonymous Communication](https://petsymposium.org/2019/files/papers/issue2/popets-2019-0022.pdf)<br>
+
+- [On the Construction of a Post-Quantum Blockchain for Smart City](https://arxiv.org/abs/2012.15799) - [PDF](https://arxiv.org/pdf/2012.15799.pdf)<br>
+
+- [Indistinguishability Obfuscation from Well-Founded Assumptions](https://arxiv.org/abs/2008.09317) - [PDF](https://arxiv.org/pdf/2008.09317.pdf)<br>
+
+## May 2021
 
 - [Attacks on Tor](https://github.com/Attacks-on-Tor/Attacks-on-Tor)<br>
 
