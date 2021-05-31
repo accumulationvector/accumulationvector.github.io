@@ -7,13 +7,13 @@ permalink: /archive/
 
 # 2021
 
-- April 12, 2021 >> [North Korean Hacker Profit Margins]()
+- April 12, 2021 >> [North Korean Hacker Profit Margins](https://accumulationvector.com/2021-04-12/north-korean-hackers)
 
-- March 14, 2021 >> [Jon Jost's Speaking Directly]()
+- March 14, 2021 >> [Jon Jost's Speaking Directly](https://accumulationvector.com/2021-03-14/review-speaking-directly)
 
 - March 01, 2021 >> [Now Page](https://accumulationvector.com/2021-03-01/now)
 
-- February 18, 2021 >> [Operating Systems without Systemd]()
+- February 18, 2021 >> [Operating Systems without Systemd](https://accumulationvector.com/2021-02-18/systemd-archives)
 
 - January 31, 2021 >> [Deer Photography](https://accumulationvector.com/2021-01-31/deer-photography)
 
