@@ -5,6 +5,12 @@ author: "accumulation-vector"
 permalink: /archive/
 ---
 
+# 2023
+
+- November 5, 2023 >> [Crypto-Destituent Power]()
+
+- October, 2023 >> [Umineko Notes]()
+
 # 2021
 
 - April 12, 2021 >> [North Korean Hacker Profit Margins](https://accumulationvector.com/2021-04-12/north-korean-hackers)
@@ -19,13 +25,13 @@ permalink: /archive/
 
 - January 28, 2021 >> [Site Updates/New Projects](https://accumulationvector.com/2021-01-28/site-updates)
 
-- January 15, 2021 >> [Cyber-Deception Notes](https://accumulationvector.com/2021-01-15/Cyberdeception-Notes)
+- January 15, 2021 >> [Cyber-Deception Notes](https://accumulationvector.com/2021-01-15/cyberdeception-notes)
 
 - January 03, 2021 >> [How I Used Libraries](https://accumulationvector.com/2021-01-03/how-i-used-libraries)
 
 # 2020
 
-- November 16, 2020 >> [Selling Shares of Yourself](https://accumulationvector.com/2020-10-16/selling-shares-of-yourself)
+- November 16, 2020 >> [Selling Shares of Yourself](https://accumulationvector.com/2020-11-16/selling-shares-of-yourself)
 
 - October 22, 2020 >> [Garden Photography](https://accumulationvector.com/2020-10-22/garden-photography)
 
