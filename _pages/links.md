@@ -14,9 +14,9 @@ These are in reverse chronological order.
 
 ## October 2023
 
-- [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian XMPP (Jabber) messaging service](https://notes.valdikss.org.ru/jabber.ru-mitm/#Encrypted%20traffic%20interception%20on%20Hetzner%20and%20Linode%20targeting%20the%20largest%20Russian%20XMPP%20(Jabber)%20messaging%20service) - [Archive](https://archive.ph/7PaeD)<br>
+- [Katzenpost](https://katzenpost.network/) - [Archive](https://archive.ph/sQWmK)<br>
 
-> We have discovered XMPP (Jabber) instant messaging protocol encrypted TLS connection wiretapping (Man-in-the-Middle attack) of jabber.ru (aka xmpp.ru) service’s servers on Hetzner and Linode hosting providers in Germany. The attacker has issued several new TLS certificates using Let’s Encrypt service which were used to hijack encrypted STARTTLS connections on port 5222 using transparent MiTM proxy.<br>
+- [I2P's Threat Model](https://geti2p.net/it/docs/how/threat-model) - [Archive](https://archive.ph/NgRrk)<br>
 
 - [The Evolution of a Haskell Programmer
 ](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm) - [Archive](https://archive.ph/CbAXN)<br>
@@ -24,11 +24,11 @@ These are in reverse chronological order.
 - [Communicative Agents for Software Development
 ](https://arxiv.org/pdf/2307.07924.pdf)<br>
 
-- [I2P's Threat Model](https://geti2p.net/it/docs/how/threat-model) - [Archive](https://archive.ph/NgRrk)<br>
+- [Haphaestus: Lightweight browser engine written in Haskell](https://haphaestus.org/) - [Archive](https://archive.ph/zQJ5W)<br>
 
-- [Haphaestus: Lightweight JavaScript-free browser engine written in Haskell](https://haphaestus.org/) - [Archive](https://archive.ph/zQJ5W)<br>
+- [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian XMPP (Jabber) messaging service](https://notes.valdikss.org.ru/jabber.ru-mitm/#Encrypted%20traffic%20interception%20on%20Hetzner%20and%20Linode%20targeting%20the%20largest%20Russian%20XMPP%20(Jabber)%20messaging%20service) - [Archive](https://archive.ph/7PaeD)<br>
 
-- [Katzenpost](https://katzenpost.network/) - [Archive](https://archive.ph/sQWmK)<br>
+> We have discovered XMPP instant messaging protocol encrypted TLS connection wiretapping of jabber.ru (aka xmpp.ru) service’s servers on Hetzner and Linode hosting providers in Germany. The attacker has issued several new TLS certificates using Let’s Encrypt service which were used to hijack encrypted STARTTLS connections on port 5222 using transparent MiTM proxy.<br>
 
 ## September 2023
 
