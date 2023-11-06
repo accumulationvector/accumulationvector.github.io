@@ -37,16 +37,15 @@ These are in reverse chronological order.
 - [Haphaestus: Lightweight browser engine written in Haskell](https://haphaestus.org/) - [Archive](https://archive.ph/zQJ5W)<br>
 
 - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian XMPP (Jabber) messaging service](https://notes.valdikss.org.ru/jabber.ru-mitm/#Encrypted%20traffic%20interception%20on%20Hetzner%20and%20Linode%20targeting%20the%20largest%20Russian%20XMPP%20(Jabber)%20messaging%20service) - [Archive](https://archive.ph/7PaeD)<br>
-
 > We have discovered XMPP instant messaging protocol encrypted TLS connection wiretapping of jabber.ru (aka xmpp.ru) service’s servers on Hetzner and Linode hosting providers in Germany. The attacker has issued several new TLS certificates using Let’s Encrypt service which were used to hijack encrypted STARTTLS connections on port 5222 using transparent MiTM proxy.<br>
 
 ## September 2023
 
-- [Connecting Robust Shuffle Privacy and Pan-Privacy](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976465.142)<br>
+- [BIN List Database](https://bincheck.io/bin-list) - [Archive](https://archive.ph/YTM1h)<br>
 
 - [Differential Privacy in the Shuffle Model](https://www.khoury.northeastern.edu/home/albertcheu/cheu-thesis.pdf)<br>
 
-- [BIN List Database](https://bincheck.io/bin-list) - [Archive](https://archive.ph/YTM1h)<br>
+- [Connecting Robust Shuffle Privacy and Pan-Privacy](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976465.142)<br>
 
 - [Practical Attacks on Machine Learning Systems](https://research.nccgroup.com/wp-content/uploads/2022/07/practical-attacks-on-ml.pdf)<br>
 
