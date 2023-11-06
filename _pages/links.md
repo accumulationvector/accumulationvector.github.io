@@ -11,6 +11,16 @@ These are in reverse chronological order.
 
 ## November 2023
 
+- []()<br>
+
+- []()<br>
+
+- []()<br>
+
+- [](http://trilema.com/2013/so-this-urbit-thing/) - [Archive](https://archive.ph/ZCzGA)<br>
+
+- []()<br>
+
 
 ## October 2023
 
@@ -32,7 +42,15 @@ These are in reverse chronological order.
 
 ## September 2023
 
+- [Connecting Robust Shuffle Privacy and Pan-Privacy](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976465.142)<br>
 
+- [Differential Privacy in the Shuffle Model](https://www.khoury.northeastern.edu/home/albertcheu/cheu-thesis.pdf)<br>
+
+- [BIN List Database](https://bincheck.io/bin-list) - [Archive](https://archive.ph/YTM1h)<br>
+
+- [Practical Attacks on Machine Learning Systems](https://research.nccgroup.com/wp-content/uploads/2022/07/practical-attacks-on-ml.pdf)<br>
+
+- [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) - [Archive](https://archive.ph/SvqqF)<br>
 
 # 2023
 
