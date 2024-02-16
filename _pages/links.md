@@ -9,6 +9,43 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
+## February 2024
+
+- []()<br>
+
+- [Metamour-regular Polyamorous Relationships and Graphs](https://arxiv.org/pdf/2005.14121v4.pdf)<br>
+
+- [LGProxy](https://telescope.timd.io/)<br>
+
+- []()<br>
+
+
+## January 2024
+
+- []()<br>
+
+- []()<br>
+
+- []()<br>
+
+- []()<br>
+
+- []()<br>
+
+# 2024
+
+## December 2023
+
+- []()<br>
+
+- []()<br>
+
+- []()<br>
+
+- []()<br>
+
+- []()<br>
+
 ## November 2023
 
 - []()<br>
