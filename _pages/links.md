@@ -24,7 +24,7 @@ These are in reverse chronological order.
 
 - []()<br>
 
-- []()<br>
+- [Umineko: The Opium Of The Magics](https://gwern.net/review/umineko)<br>
 
 - []()<br>
 
