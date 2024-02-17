@@ -21,9 +21,13 @@ permalink: /archive/
 
 - December 30, 2023 >> [Crime in 1800s England]()
 
+- November 26, 2023 >> [NYC Photography]()
+
 - November 05, 2023 >> [Crypto-Destituent Power](https://accumulationvector.com/2023-11-05/cryptodestituent-part-1)
 
 - October 22, 2023 >> [Umineko Notes]()
+
+- April 02, 2023 >> [Wilderness Photography]()
 
 # 2021
 
