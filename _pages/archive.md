@@ -5,11 +5,25 @@ author: "accumulation-vector"
 permalink: /archive/
 ---
 
+# 2024
+
+- February 16, 2024 >> [Deleuze Put Simply]()
+
+- February 10, 2024 >> [Nagel Writing]()
+
+- Janarury 20, 2024 >> [Paskian Thought]()
+
+- January 19, 2024 >> [Experiments With The Occult]()
+ 
+- January 06, 2024 >> [The Hume Model of AI]()
+
 # 2023
 
-- November 5, 2023 >> [Crypto-Destituent Power]()
+- December 30, 2023 >> [Crime in 1800s England]()
 
-- October, 2023 >> [Umineko Notes]()
+- November 05, 2023 >> [Crypto-Destituent Power]()
+
+- October 22, 2023 >> [Umineko Notes]()
 
 # 2021
 
