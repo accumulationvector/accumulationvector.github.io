@@ -15,21 +15,21 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 
 ## Books Read 2024: 
 
-01. [Why Greatness Cannot Be Planned: The Myth of the Objective]() by Kenneth O. Stanley
-02. [Eumeswil]() by Ernst Jünger
-03. [The Rise of the Creative Class]() by Richard Florida
-04. [In Search of the Miraculous]() by  P. D. Ouspensky 
-05. [Magick in Theory and Practice]() by Aleister Crowley
-06. [Art and Artist]() by Otto Rank
-07. [The Key of Solomon]() edited by Liddell MacGregor Mathers
-08. [Nietzsche Apostle]() by Peter Sloterdijk
-09. [A Book of Surrealist Games]() by Alastair Brotchie
-10. [Running on Emptiness: The Pathology of Civilization]() by John Zerzan
-11. [The Hard Life]() by Flann O'Brien
-12. [Starry Speculative Corpse]() by Eugene Thacker
-13. [I Hate The Internet]() by Jarett Kobek
-14. [The Origins of Consciousness In The Breakdown of The Bicameral Mind]() by Julian Jaynes
-15. [Erotism: Death and Sensuality]() by Georges Bataille
+01. [Why Greatness Cannot Be Planned: The Myth of the Objective](https://accumulationvector.com/books/01-2024/) by Kenneth O. Stanley
+02. [Eumeswil](https://accumulationvector.com/books/02-2024/) by Ernst Jünger
+03. [The Rise of the Creative Class](https://accumulationvector.com/books/03-2024/) by Richard Florida
+04. [In Search of the Miraculous](https://accumulationvector.com/books/04-2024/) by  P. D. Ouspensky 
+05. [Magick in Theory and Practice](https://accumulationvector.com/books/05-2024/) by Aleister Crowley
+06. [Art and Artist](https://accumulationvector.com/books/06-2024/) by Otto Rank
+07. [The Key of Solomon](https://accumulationvector.com/books/07-2024/) edited by Liddell MacGregor Mathers
+08. [Nietzsche Apostle](https://accumulationvector.com/books/08-2024/) by Peter Sloterdijk
+09. [A Book of Surrealist Games](https://accumulationvector.com/books/09-2024/) by Alastair Brotchie
+10. [Running on Emptiness: The Pathology of Civilization](https://accumulationvector.com/books/10-2024/) by John Zerzan
+11. [The Hard Life](https://accumulationvector.com/books/11-2024/) by Flann O'Brien
+12. [Starry Speculative Corpse](https://accumulationvector.com/books/12-2024/) by Eugene Thacker
+13. [I Hate The Internet](https://accumulationvector.com/books/13-2024/) by Jarett Kobek
+14. [The Origins of Consciousness In The Breakdown of The Bicameral Mind](https://accumulationvector.com/books/14-2024/) by Julian Jaynes
+15. [Erotism: Death and Sensuality](https://accumulationvector.com/books/15-2024/) by Georges Bataille
 
 ## Planned Reads 2024
 15. Dark Deleuze by Andrew Culp
