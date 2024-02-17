@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Books Read"
+title: "Books"
 author: "accumulation-vector"
 permalink: /books/
 ---
