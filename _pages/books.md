@@ -32,6 +32,7 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 13. [I Hate The Internet](https://accumulationvector.com/books/13-2024/) by Jarett Kobek
 14. [The Origins of Consciousness In The Breakdown of The Bicameral Mind](https://accumulationvector.com/books/14-2024/) by Julian Jaynes
 15. [Erotism: Death and Sensuality](https://accumulationvector.com/books/15-2024/) by Georges Bataille
+16. [Heart beat, Drum beat](https://accumulationvector.com/books/16-2024/) by Somnath Bhatt with Moad Musbahi
 
 ## Planned Reads 2024
 15. Dark Deleuze by Andrew Culp
