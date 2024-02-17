@@ -7,7 +7,9 @@ permalink: /books/
 
 This is a page for books that I've read each year, I used to be an active goodreads user before it was bought by Amazon. Since then I have not used the service and have not really put my short form reviews of books anywhere except my own journals and notebooks.
 
-Here is where these thoughts on my reading each year will live from now on. I'll update little reviews for each book as I go along the follwowing links will have notes, thoughts, and commentary. These aren't formal reviews, if something is good enough to warrant that it will get a real post on the front page. These are instead just little notes on each text that I take as I read them and my personal impressions of each. None of these are going to be very formal or structured so don't go in expecting that. 
+Here is where these thoughts on my reading each year will live from now on. I'll update little reviews for each book as I go along the follwowing links will have notes, thoughts, and commentary. 
+
+These aren't formal reviews, if something is good enough to warrant that it will get a real post on the front page. These are instead just little notes on each text that I take as I read them and my personal impressions of each. None of these are going to be very formal or structured so don't go in expecting that. 
 
 My aim is generally to read 100 books each year if I can as a kind of minimum bar that I try to cross. This might feel like a lot but a lot of these books are short ~100-150 pages which pads out the count a bit. I read books of a variety of different lengths, and many I don't read fully if they don't warrant it.
 
