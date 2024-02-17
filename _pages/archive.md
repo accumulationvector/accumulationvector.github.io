@@ -9,9 +9,9 @@ permalink: /archive/
 
 - February 16, 2024 >> [Deleuze Put Simply]()
 
-- February 10, 2024 >> [Nagel Writing]()
+- February 10, 2024 >> [Nagel Writing](https://accumulationvector.com/2024-02-10/nagel-bat)
 
-- Janarury 20, 2024 >> [Paskian Thought]()
+- Janarury 20, 2024 >> [Paskian Thought](https://accumulationvector.com/2024-01-20/gordon-pask-thought)
 
 - January 19, 2024 >> [Experiments With The Occult]()
  
@@ -21,7 +21,7 @@ permalink: /archive/
 
 - December 30, 2023 >> [Crime in 1800s England]()
 
-- November 05, 2023 >> [Crypto-Destituent Power]()
+- November 05, 2023 >> [Crypto-Destituent Power](https://accumulationvector.com/2023-11-05/cryptodestituent-part-1)
 
 - October 22, 2023 >> [Umineko Notes]()
 
