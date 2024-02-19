@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "North Korean Hacker Profit Margins"
+title:  "Experiments With The Occult"
 author: "accumulation-vector"
 ---
