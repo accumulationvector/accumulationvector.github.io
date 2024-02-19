@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "North Korean Hacker Profit Margins"
+title:  "NYC Photography"
 author: "accumulation-vector"
 ---
