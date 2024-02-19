@@ -11,11 +11,11 @@ These are in reverse chronological order.
 
 ## February 2024
 
+- [LGProxy](https://telescope.timd.io/) - [Archive](https://archive.is/LiK5c) <br>
+
 - [Umineko: The Opium Of The Magics by Gwern](https://gwern.net/review/umineko) - [Archive](https://archive.is/yeo3H)<br>
 
 - [Metamour-regular Polyamorous Relationships and Graphs](https://arxiv.org/pdf/2005.14121v4.pdf)<br>
-
-- [LGProxy](https://telescope.timd.io/) - [Archive](https://archive.is/LiK5c) <br>
 
 - [100 Rabbits Collective](https://100r.co/site/about_us.html) - [Archive](https://archive.is/gRQ2A)<br>
 > We live and work on a 10 meter vessel called Pino, we have sailed around the Pacific Ocean and realized how fragile the modern-day computing stack was. Living in remote uninhabited parts of the world has offered us a playground to learn how technology degrades beyond the shores of the western world.<br>
@@ -27,21 +27,21 @@ These are in reverse chronological order.
 
 - [Exposing Private Information by Timing Web Applications](https://crypto.stanford.edu/~dabo/pubs/papers/webtiming.pdf)<br>
 
-- []()<br>
+- [The Annotated S4](https://srush.github.io/annotated-s4/) - [Archive](https://archive.is/KWPXt)<br>
 
-- []()<br>
+- [Ciro Santilli's Homepage (三西猴的主页)](https://cirosantilli.com/) - [Archive](https://archive.is/PL8A5)<br>
 
 # 2024
 
 ## December 2023
+
+- [The red* family of proof assistants](https://redprl.org/) - [Archive](https://archive.is/diJLG)<br>
 
 - [The Visual Microphone: Passive Recovery of Sound from Video](https://people.csail.mit.edu/mrub/VisualMic/) - [Archive](https://archive.is/GOWG9)<br>
 
 - [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://eprint.iacr.org/2020/708.pdf)<br>
 
 - [Hard Drive of Hearing: Disks that Eavesdrop with a Synthesized Microphone](https://gwern.net/doc/technology/2019-kwong.pdf)<br>
-
-- []()<br>
 
 ## November 2023
 
