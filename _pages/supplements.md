@@ -25,7 +25,13 @@ The nasal spray however does appear to have a strong effect. It wasn't strong en
 
 The spray seemed to last for around 1 hour as far as I could tell, and was quite a strong effect. I would definitely recommend trying it out, as it did appear to have a slight effect on my overall disposition while I was on it.
 
-## Estrodiol
+## Estradiol
+
+There was a three month period when I experimented with taking 2mg of estrogen daily, with great results overall. I would definitely consider taking more of it in the future or possibly taking one of the non-feminizing variants. It definitely makes you more emotional overall, which is a net negative side effect.
+
+All other side effects were positive, it made me calmer, gave me an interesting peace of mind. I was able to work more effectively and though it created emotional swings in either direction, the happy emotional cycles were very strong and long lasting. It also significantly reduces libido, which depending on the person might be a good or bad side effect.
+
+The data on taking estrogen or anti-testosterone medication as a life extension mechanism is really inconclusive so I'm not sure if I would take it again in the future for that purpose. Overall it seemed like a net positive.
 
 ## Pinus Massoniana (Chinese Pine Needles)
 
@@ -85,7 +91,7 @@ I think that it is generally recommended to be taken with something else in orde
 
 ## Kratom
 
- tried this once or twice at very low 
+This is probably a useless drug.
 
 ## Caffeine
 
@@ -105,10 +111,15 @@ I will feel horribly tired even after taking caffeine and often fall back asleep
 
 ## Adderall (prescribed)
 
+Adderall is simply the best drug ever created, there is nothing to be said that hasn't already been said by anyone else. It is the best nootropic, if you get the chance take it.
+
+Personally, I stopped taking it when I learned of the potential neurotoxic effects from taking it. It is worth taking sparingly, and I took it daily for years at a time.
+
 ## Vitamin C
 
 I take a lot of vitamin C because I have mostly removed all fruit from my diet. I have attempted to remove all sugars and most breads from my diet as much as is reasonable anyway. I rarely ever eat any sugary foods, fruit, candy, pastries, etc. I also do not drink any sugary drinks for the most part. I never drink soda under almost any circumstances. 
 
+Since this is the case, I feel the need to make it up by taking vitamin C. I don't really feel much of an impact from taking the vitamin C, but I take it regardless anyway at a rate of around 250-500mg per day.
 
 
 
