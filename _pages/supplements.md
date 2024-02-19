@@ -41,7 +41,7 @@ After puking and no longer taking the supplement I had no futher issues whatsoev
 
 ## Ashwaganda
 
-
+No effect, useless drug.
 
 ## Nicotine (Gum)
 
@@ -75,6 +75,8 @@ This is one of the standouts that I would like to try taking more reguarly again
 
 ## Phenylpiracetam
 
+Not placebo, high value.
+
 ## Zinc
 
 Everytime I take Zinc supplements it causes me to become extremely nausous and feel like I am going to puke, they make me very very sick in most cases. I have read that this is a common issue for many people and that it can cause stomach ulcers to form. 
@@ -83,7 +85,11 @@ The dosage I take that causes this is around 50mg which equates to around 500% o
 
 ## Collagen
 
+Possibly placebo, hair/nail growth.
+
 ## Biotin
+
+No effect whatsoever.
 
 ## CoQ10
 
@@ -93,9 +99,11 @@ I think that it is generally recommended to be taken with something else in orde
 
 ## L-Theanine
 
+Not placebo, net-positive calming effect.
+
 ## Kratom
 
-This is probably a useless drug.
+This is probably a useless drug, tried once. Tastes awful.
 
 ## Caffeine
 
