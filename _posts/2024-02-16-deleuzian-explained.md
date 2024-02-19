@@ -1,4 +1,8 @@
-
+---
+layout: post
+title:  "Deleuze Explained Simply Pt.1"
+author: "accumulation-vector"
+---
 
 
 People tend to find it very difficult to understand what Deleuze is getting at when they attempt to read Deleuzian philosophy. In practice, it really isn't that hard to understand what it is about, there are lots of layers of obfuscation that cause it to be more difficult than it has to be. Talking to a friend the other day I was explaining Deleuze and I'm repeating much of what I said here for the benefit of others who are confused.
