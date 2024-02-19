@@ -49,13 +49,11 @@ These are in reverse chronological order.
 
 - []()<br>
 
-- []()<br>
+- [On the Round Complexity of the Shuffle Model](https://arxiv.org/pdf/2009.13510.pdf)<br>
 
 - [On the Feasibility of Internet-Scale Author Identification](https://www.cs.princeton.edu/~arvindn/publications/author-identification-draft.pdf)<br>
 
 - [Mircea Popescu's Urbit Poker Bet](http://trilema.com/2013/so-this-urbit-thing/) - [Archive](https://archive.ph/ZCzGA)<br>
-
-- []()<br>
 
 
 ## October 2023
