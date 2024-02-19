@@ -42,6 +42,8 @@ These are in reverse chronological order.
 - [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://eprint.iacr.org/2020/708.pdf)<br>
 
 - [Hard Drive of Hearing: Disks that Eavesdrop with a Synthesized Microphone](https://gwern.net/doc/technology/2019-kwong.pdf)<br>
+>Our research demonstrates that the mechanical components in magnetic hard disk drives behave as micro-phones with sufficient precision to extract and parse human speech.
+>These unintentional microphones sense speech with high enough fidelity for the Shazam service to recognize a song recorded through the hard drive.<br>
 
 ## November 2023
 
