@@ -51,7 +51,7 @@ These are in reverse chronological order.
 
 - [On the Feasibility of Internet-Scale Author Identification](https://www.cs.princeton.edu/~arvindn/publications/author-identification-draft.pdf)<br>
 
-- [Urbit Poker Bet](http://trilema.com/2013/so-this-urbit-thing/) - [Archive](https://archive.ph/ZCzGA)<br>
+- [Mircea Popescu's Urbit Poker Bet](http://trilema.com/2013/so-this-urbit-thing/) - [Archive](https://archive.ph/ZCzGA)<br>
 
 - []()<br>
 
