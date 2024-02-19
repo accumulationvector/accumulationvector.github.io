@@ -23,9 +23,9 @@ These are in reverse chronological order.
 
 ## January 2024
 
-- []()<br>
+- [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/title.html) - [Archive](https://archive.is/qrwRk)<br>
 
-- []()<br>
+- [Exposing Private Information by Timing Web Applications](https://crypto.stanford.edu/~dabo/pubs/papers/webtiming.pdf)<br>
 
 - []()<br>
 
@@ -35,11 +35,11 @@ These are in reverse chronological order.
 
 ## December 2023
 
-- []()<br>
+- [The Visual Microphone: Passive Recovery of Sound from Video](https://people.csail.mit.edu/mrub/VisualMic/) - [Archive](https://archive.is/GOWG9)<br>
 
-- []()<br>
+- [Lamphone: Real-Time Passive Sound Recovery from Light Bulb Vibrations](https://eprint.iacr.org/2020/708.pdf)<br>
 
-- []()<br>
+- [Hard Drive of Hearing: Disks that Eavesdrop with a Synthesized Microphone](https://gwern.net/doc/technology/2019-kwong.pdf)<br>
 
 - []()<br>
 
@@ -49,7 +49,7 @@ These are in reverse chronological order.
 
 - []()<br>
 
-- []()<br>
+- [On the Feasibility of Internet-Scale Author Identification](https://www.cs.princeton.edu/~arvindn/publications/author-identification-draft.pdf)<br>
 
 - [Urbit Poker Bet](http://trilema.com/2013/so-this-urbit-thing/) - [Archive](https://archive.ph/ZCzGA)<br>
 
