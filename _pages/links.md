@@ -15,7 +15,7 @@ These are in reverse chronological order.
 
 - [Metamour-regular Polyamorous Relationships and Graphs](https://arxiv.org/pdf/2005.14121v4.pdf)<br>
 
-- [LGProxy](https://telescope.timd.io/) - [Archive]() <br>
+- [LGProxy](https://telescope.timd.io/) - [Archive](https://archive.is/LiK5c) <br>
 
 - [100 Rabbits Collective](https://100r.co/site/about_us.html) - [Archive](https://archive.is/gRQ2A)<br>
 > We live and work on a 10 meter vessel called Pino, we have sailed around the Pacific Ocean and realized how fragile the modern-day computing stack was. Living in remote uninhabited parts of the world has offered us a playground to learn how technology degrades beyond the shores of the western world.<br>
