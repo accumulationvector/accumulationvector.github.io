@@ -27,7 +27,7 @@ The spray seemed to last for around 1 hour as far as I could tell, and was quite
 
 ## Estradiol
 
-There was a six or seven month period when I experimented with taking 2mg of estrogen daily, with great results overall. I would definitely consider taking more of it in the future or possibly taking one of the non-feminizing variants. It definitely makes you more emotional overall, which is a net negative side effect.
+There was a six month period when I experimented with taking 2mg of estrogen daily, with great results overall. I would definitely consider taking more of it in the future or possibly taking one of the non-feminizing variants. It definitely makes you more emotional overall, which is a net negative side effect.
 
 All other side effects were positive, it made me calmer, gave me an interesting peace of mind. I was able to work more effectively and though it created emotional swings in either direction, the happy emotional cycles were very strong and long lasting. It also significantly reduces libido, which depending on the person might be a good or bad side effect.
 
