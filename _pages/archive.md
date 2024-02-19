@@ -13,21 +13,21 @@ permalink: /archive/
 
 - Janarury 20, 2024 >> [Paskian Thought](https://accumulationvector.com/2024-01-20/gordon-pask-thought)
 
-- January 19, 2024 >> [Experiments With The Occult]()
+- January 19, 2024 >> [Experiments With The Occult](https://accumulationvector.com/2024-01-19/occult-experiments)
  
-- January 06, 2024 >> [The Hume Model of AI]()
+- January 06, 2024 >> [The Hume Model of AI](https://accumulationvector.com/2024-01-06/hume-ai)
 
 # 2023
 
 - December 30, 2023 >> [Crime in 1800s England]()
 
-- November 26, 2023 >> [NYC Photography]()
+- November 26, 2023 >> [NYC Photography](https://accumulationvector.com/2023-11-25/nyc-photography)
 
 - November 05, 2023 >> [Crypto-Destituent Power](https://accumulationvector.com/2023-11-05/cryptodestituent-part-1)
 
 - October 22, 2023 >> [Umineko Notes]()
 
-- April 02, 2023 >> [Wilderness Photography]()
+- April 02, 2023 >> [Wilderness Photography](https://accumulationvector.com/2023-04-02/wilderness-photography)
 
 # 2021
 
