@@ -11,20 +11,19 @@ These are in reverse chronological order.
 
 ## February 2024
 
-- []()<br>
+- [Umineko: The Opium Of The Magics by Gwern](https://gwern.net/review/umineko) - [Archive](https://archive.is/yeo3H)<br>
 
 - [Metamour-regular Polyamorous Relationships and Graphs](https://arxiv.org/pdf/2005.14121v4.pdf)<br>
 
-- [LGProxy](https://telescope.timd.io/)<br>
+- [LGProxy](https://telescope.timd.io/) - [Archive]() <br>
 
-- []()<br>
+- [100 Rabbits Collective](https://100r.co/site/about_us.html) - [Archive](https://archive.is/gRQ2A)<br>
+> We live and work on a 10 meter vessel called Pino, we have sailed around the Pacific Ocean and realized how fragile the modern-day computing stack was. Living in remote uninhabited parts of the world has offered us a playground to learn how technology degrades beyond the shores of the western world.<br>
 
 
 ## January 2024
 
 - []()<br>
-
-- [Umineko: The Opium Of The Magics](https://gwern.net/review/umineko)<br>
 
 - []()<br>
 
@@ -44,8 +43,6 @@ These are in reverse chronological order.
 
 - []()<br>
 
-- []()<br>
-
 ## November 2023
 
 - []()<br>
@@ -54,7 +51,7 @@ These are in reverse chronological order.
 
 - []()<br>
 
-- [](http://trilema.com/2013/so-this-urbit-thing/) - [Archive](https://archive.ph/ZCzGA)<br>
+- [Urbit Poker Bet](http://trilema.com/2013/so-this-urbit-thing/) - [Archive](https://archive.ph/ZCzGA)<br>
 
 - []()<br>
 
