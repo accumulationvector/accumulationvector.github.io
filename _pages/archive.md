@@ -11,7 +11,7 @@ permalink: /archive/
 
 - February 10, 2024 >> [Nagel Writing](https://accumulationvector.com/2024-02-10/nagel-bat)
 
-- Janarury 20, 2024 >> [Paskian Thought](https://accumulationvector.com/2024-01-20/gordon-pask-thought)
+- Janarury 20, 2024 >> [Gordon Pask's Experiments](https://accumulationvector.com/2024-01-20/gordon-pask-thought)
 
 - January 19, 2024 >> [Experiments With The Occult](https://accumulationvector.com/2024-01-19/occult-experiments)
  
