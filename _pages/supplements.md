@@ -17,9 +17,13 @@ Here is a first draft of a few that I will fill out later, most TCM is left off 
 
 ## Oxytocin
 
-I have taken Oxytocin in both a pill form and as a nasal spray. From my own research and my own experiences I can say without a doubt that the pill form does not appear to do anything. It doesn't seem able to cross the blood-brain barrier in pill form. Despite that I took 90 of the pills to see if there would be any impact, but there was no noticable impact.
+I have taken Oxytocin in both a pill form and as a nasal spray. From my own research and my own experiences I can say without a doubt that the pill form does not appear to do anything.
 
-The nasal spray however does appear to have a strong effect. It wasn't strong enough to tell that it wasn't just placebo but I definitely felt more social and forming bonds or empathizing with other people seem much easier. The spray seemed to last for around 1 hour as far as I could tell, and was quite a strong effect. I would definitely recommend trying it out, as it did appear to have a slight effect on my overall disposition while I was on it.
+It doesn't seem able to cross the blood-brain barrier in pill form. Despite that I took 90 of the pills to see if there would be any impact, but there was no noticable impact.
+
+The nasal spray however does appear to have a strong effect. It wasn't strong enough to tell that it wasn't just placebo but I definitely felt more social and forming bonds or empathizing with other people seem much easier.
+
+The spray seemed to last for around 1 hour as far as I could tell, and was quite a strong effect. I would definitely recommend trying it out, as it did appear to have a slight effect on my overall disposition while I was on it.
 
 ## Estrodiol
 
@@ -41,7 +45,9 @@ Daily at my peaks in my habit I take around 24-36mg of nicotine. I would say thi
 
 In terms of my teeth, I don't see any impact on my tooth health from taking nicotine gum for years. My gums and teeth seem roughly the same as before I started taking it. There has been no significant difference in my gum health, there have been several studies which seem to show an impact on gum health, but I have not experienced this at all with long-term use.
 
-The gum also seems significantly less addictive than other forms of nicotine. I have not smoked really so I can't speak to how addictive smoing is, but I feel like the addiction is mostly psychological. There have been several times when I stop for a 1-3 months mostly just to see if I can, and I have not found any significant addictive behavior crop up. I have also randomly stopped for shorter periods like a week with no significant cravings after the first day or two. 
+The gum also seems significantly less addictive than other forms of nicotine. I have not smoked really so I can't speak to how addictive smoing is, but I feel like the addiction is mostly psychological. 
+
+There have been several times when I stop for a 1-3 months mostly just to see if I can, and I have not found any significant addictive behavior crop up. I have also randomly stopped for shorter periods like a week with no significant cravings after the first day or two. 
 
 I do not take nicotine while I'm travelling, so anytime I travel I go without it for weeks at a time with no real notice other than obviously less wakefulness. All in all, I have found caffeine much more addictive ironically. Often, I feel completely incapable of going without caffeine for even a day or two without a significant cravings.
 
@@ -51,7 +57,9 @@ This is a total meme, no quantity of it seems to do anything whatsoever. I suspe
 
 ## Bacopa Monnieri
 
-Bacopa is supposedly used as a form of anti dementia drug. I bought a raw powder form of this and took it over the course of around 2 months and saw no improvements whatsoever. It did not seem to do anything and I did not even get a placebo effect out of taking it, at least not one that I could tell. I do not believe it does anything whatsoever and have not taken any of it since.
+Bacopa is supposedly used as a form of anti dementia drug. I bought a raw powder form of this and took it over the course of around 2 months and saw no improvements whatsoever. 
+
+It did not seem to do anything and I did not even get a placebo effect out of taking it, at least not one that I could tell. I do not believe it does anything whatsoever and have not taken any of it since.
 
 ## Spirulina
 
@@ -59,7 +67,9 @@ Bacopa is supposedly used as a form of anti dementia drug. I bought a raw powder
 
 ## Zinc
 
-Everytime I take Zinc supplements it causes me to become extremely nausous and feel like I am going to puke, they make me very very sick in most cases. I have read that this is a common issue for many people and that it can cause stomach ulcers to form. The dosage I take that causes this is around 50mg which equates to around 500% of a persons daily value. When I take it at lower quantitites I have felt significant bodily effects, but at higher dosages I simply cannot tolerate it. 
+Everytime I take Zinc supplements it causes me to become extremely nausous and feel like I am going to puke, they make me very very sick in most cases. I have read that this is a common issue for many people and that it can cause stomach ulcers to form. 
+
+The dosage I take that causes this is around 50mg which equates to around 500% of a persons daily value. When I take it at lower quantitites I have felt significant bodily effects, but at higher dosages I simply cannot tolerate it. 
 
 ## Collagen
 
@@ -97,7 +107,7 @@ I will feel horribly tired even after taking caffeine and often fall back asleep
 
 ## Vitamin C
 
-I take a lot of vitamin C because I have mostly removed all fruit from my diet. I have attempted to remove all sugars and most breads from my diet as much as is reasonable anyway. I rarely ever eat any sugary foods, fruit, candy, pastries, etc. I also do not drink any sugary drinks for the most part. I never drink soda under almost any circumstances.
+I take a lot of vitamin C because I have mostly removed all fruit from my diet. I have attempted to remove all sugars and most breads from my diet as much as is reasonable anyway. I rarely ever eat any sugary foods, fruit, candy, pastries, etc. I also do not drink any sugary drinks for the most part. I never drink soda under almost any circumstances. 
 
 
 
