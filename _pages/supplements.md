@@ -47,7 +47,9 @@ After puking and no longer taking the supplement I had no futher issues whatsoev
 
 I have taken nicotine gum for around 2 years on and off at various points. The main thing that inspired me to try it was the [excellent post by Gwern]() and I have since gone on to encourage many friends to give it a try. I have never been a smoker or a vape person prior to using nicotine gum. It is definitely the best low effect stimulant, and targets different neural pathways than caffeine. I would describe it as most similar to an extremely microdose of Adderall. 
 
-Daily at my peaks in my habit I take around 24-36mg of nicotine. I would say this is an extremely high dose much higher than the Gwern post for example recommends. At strong doses like this it causes a very strong heart impact and makes my heart feel slightly strained (I am not in the best health). It is never enough to impact my performance except during strenuous workouts. If I stop taking it for a day or more this goes away entirely and does not seem long-lasting.
+Daily at my peaks in my habit I take around 24-36mg of nicotine. I would say this is an extremely high dose much higher than the Gwern post for example recommends. At strong doses like this it causes a very strong heart impact and makes my heart feel slightly strained (I am not in the best health). 
+
+It is never enough to impact my performance except during strenuous workouts. If I stop taking it for a day or more this goes away entirely and does not seem long-lasting.
 
 In terms of my teeth, I don't see any impact on my tooth health from taking nicotine gum for years. My gums and teeth seem roughly the same as before I started taking it. There has been no significant difference in my gum health, there have been several studies which seem to show an impact on gum health, but I have not experienced this at all with long-term use.
 
@@ -68,6 +70,8 @@ Bacopa is supposedly used as a form of anti dementia drug. I bought a raw powder
 It did not seem to do anything and I did not even get a placebo effect out of taking it, at least not one that I could tell. I do not believe it does anything whatsoever and have not taken any of it since.
 
 ## Spirulina
+
+This is one of the standouts that I would like to try taking more reguarly again. Had great impacts, makes me feel much better bodily overall. Possibly a placebo effect but very strong if that is the case. I'm surprised this isn't a part of multivitamins, as it really seems to do something. It is difficult to pin down what exactly it is doing. Not really a mental effect.
 
 ## Phenylpiracetam
 
