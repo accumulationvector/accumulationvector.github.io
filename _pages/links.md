@@ -23,13 +23,13 @@ These are in reverse chronological order.
 
 ## January 2024
 
-- [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/title.html) - [Archive](https://archive.is/qrwRk)<br>
-
-- [Exposing Private Information by Timing Web Applications](https://crypto.stanford.edu/~dabo/pubs/papers/webtiming.pdf)<br>
-
 - [The Annotated S4](https://srush.github.io/annotated-s4/) - [Archive](https://archive.is/KWPXt)<br>
 
 - [Ciro Santilli's Homepage (三西猴的主页)](https://cirosantilli.com/) - [Archive](https://archive.is/PL8A5)<br>
+
+- [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/title.html) - [Archive](https://archive.is/qrwRk)<br>
+
+- [Exposing Private Information by Timing Web Applications](https://crypto.stanford.edu/~dabo/pubs/papers/webtiming.pdf)<br>
 
 # 2024
 
