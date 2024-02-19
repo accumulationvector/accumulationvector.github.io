@@ -4,6 +4,8 @@ title:  "NYC Photography"
 author: "accumulation-vector"
 ---
 
+STATUS: IN PROGRESS INCOMPLETE
+
 A short selection of photos from wandering around NYC.
 
 <br><br>
