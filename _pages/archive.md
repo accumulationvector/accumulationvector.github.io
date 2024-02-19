@@ -7,7 +7,7 @@ permalink: /archive/
 
 # 2024
 
-- February 16, 2024 >> [Deleuze Put Simply]()
+- February 16, 2024 >> [Deleuze Explained Simply Pt.1](https://accumulationvector.com/2024-02-16/deleuzian-explained)
 
 - February 10, 2024 >> [Nagel Writing](https://accumulationvector.com/2024-02-10/nagel-bat)
 
