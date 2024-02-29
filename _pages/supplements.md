@@ -33,7 +33,7 @@ All other side effects were positive, it made me calmer, gave me an interesting 
 
 The data on taking estrogen or anti-testosterone medication as a life extension mechanism is really inconclusive so I'm not sure if I would take it again in the future for that purpose. Overall it seemed like a net positive.
 
-## Pinus Massoniana (Chinese Pine Needles)
+## Pinus Massoniana 馬尾松 (Chinese Pine Needles)
 
 There was quite a strong effect with this one and ended up being quite a story. Each time I took the pinecone dust I immediately felt sick to my stomach and around the fifth day of taking the pinecone I got so sick that I started violently puking. The vomit appeared a bright red and seemed to have blood in it. A friend proceeded to call an ambulance on me that I did not go into.
 
