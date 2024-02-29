@@ -39,6 +39,12 @@ There was quite a strong effect with this one and ended up being quite a story. 
 
 After puking and no longer taking the supplement I had no futher issues whatsoever. It definitely had a strong effect. To be fair, I'm not sure if it was the actual pinecone or some contaminant in the supplement (which is not unheard of in TCM manufacturing). Either way I would not recommend trying this supplement to anyone.
 
+## Spirolactone
+
+## Dong Chong Xia Cao 冬虫夏草 (Chinese Cordyceps Powder)
+
+## Ge Jie 蛤蚧 (Chinese Gecko Powder)
+
 ## Ashwaganda
 
 No effect, useless drug.
