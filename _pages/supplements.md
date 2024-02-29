@@ -133,6 +133,10 @@ Adderall is simply the best drug ever created, there is nothing to be said that 
 
 Personally, I stopped taking it when I learned of the potential neurotoxic effects from taking it. It is worth taking sparingly, and I took it daily for years at a time.
 
+## Taurine 
+
+https://www.science.org/doi/10.1126/science.abn9257
+
 ## Vitamin C
 
 I take a lot of vitamin C because I have mostly removed all fruit from my diet. I have attempted to remove all sugars and most breads from my diet as much as is reasonable anyway. I rarely ever eat any sugary foods, fruit, candy, pastries, etc. I also do not drink any sugary drinks for the most part. I never drink soda under almost any circumstances. 
