@@ -137,7 +137,9 @@ Personally, I stopped taking it when I learned of the potential neurotoxic effec
 
 I take a lot of vitamin C because I have mostly removed all fruit from my diet. I have attempted to remove all sugars and most breads from my diet as much as is reasonable anyway. I rarely ever eat any sugary foods, fruit, candy, pastries, etc. I also do not drink any sugary drinks for the most part. I never drink soda under almost any circumstances. 
 
-Since this is the case, I feel the need to make it up by taking vitamin C. I don't really feel much of an impact from taking the vitamin C, but I take it regardless anyway at a rate of around 250-500mg per day.
+Since this is the case, I feel the need to make it up by taking vitamin C. I don't really feel much of an impact from taking the vitamin C, but I take it regardless anyway at a rate of around 250-1500mg per day.
+
+https://michaellustgarten.com/category/vitamin-c/
 
 
 
