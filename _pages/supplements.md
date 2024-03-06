@@ -81,7 +81,7 @@ This is one of the standouts that I would like to try taking more reguarly again
 
 ## Phenylpiracetam
 
-Not placebo, high value.
+The only racetam that actually gets me a non-trivial performance boost. The others clearly do something, but I can't actually identify what they are doing as a perfomance increase in any perceptible way. They often just make my body feel weird. This on the other hand is clearly not a placebo, and clearly increases my concentration or ability to work to some significant degree. It is probably the only racetam worth recommending. 
 
 ## Zinc
 
@@ -95,7 +95,7 @@ Possibly placebo, hair/nail growth.
 
 ## Biotin
 
-No effect whatsoever.
+Compared to collagen this does not appear to do much of anything. Thought it is hard to tell because it is often packaged up with other things that are doing something. It is rare for me to take Biotin by itself but the few times that I have yielded nearly no noticable results for either hair or skin health. I don't really see it as doing much at all. Maybe it does something when combined with collagen or offsets the collagen in some way, but at least within my experience it is clear that collagen is doing something, and biotin does not appear to do anything.
 
 ## CoQ10
 
