@@ -9,6 +9,20 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
+## March 2024
+
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - [Archive](https://archive.is/qtPF6) <br>
+> A course by Andrej Karpathy on building neural networks, from scratch, in code.<br>
+
+- [Free as in 'Do as Your Told': An analysis of Richard Stallman's 'free software'](https://www.marktarver.com/free-as-in-do-as-your-told.html) - [Archive](https://archive.is/xTIGv) <br>
+
+- [Consciousness in Artificial Intelligence: Insights from the Science of Consciousness](https://arxiv.org/abs/2308.08708) - [PDF](https://arxiv.org/pdf/2308.08708.pdf) <br>
+
+- [Singularity Institute: Stategic Plan 2011](https://intelligence.org/files/strategicplan2011.pdf) - [Archive](https://web.archive.org/web/20230314232405/https://intelligence.org/files/strategicplan2011.pdf) <br>
+
+- [Iroh Computer](https://github.com/n0-computer/iroh) - [Archive](https://archive.is/rszir) <br>
+>Iroh is a protocol for syncing & moving bytes. Bytes of any size, on any device. At its core, it's a peer-2-peer network built on a magic socket that establishes QUIC connections between peers.<br> Peers request and provide blobs of opaque bytes that are incrementally verified by their BLAKE3 hash during transfer.<br>
+
 ## February 2024
 
 - [LGProxy](https://telescope.timd.io/) - [Archive](https://archive.is/LiK5c) <br>
@@ -16,6 +30,8 @@ These are in reverse chronological order.
 - [Umineko: The Opium Of The Magics by Gwern](https://gwern.net/review/umineko) - [Archive](https://archive.is/yeo3H)<br>
 
 - [Metamour-regular Polyamorous Relationships and Graphs](https://arxiv.org/pdf/2005.14121v4.pdf)<br>
+
+- [The Shen Programming Group](https://shenlanguage.org/) - [Archive](https://archive.is/CgFxj) <br>
 
 - [100 Rabbits Collective](https://100r.co/site/about_us.html) - [Archive](https://archive.is/gRQ2A)<br>
 > We live and work on a 10 meter vessel called Pino, we have sailed around the Pacific Ocean and realized how fragile the modern-day computing stack was. Living in remote uninhabited parts of the world has offered us a playground to learn how technology degrades beyond the shores of the western world.<br>
