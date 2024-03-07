@@ -73,7 +73,7 @@ This reminds me of  soap bubble computer experiments where it was claimed that s
 
 The reason this example is interesting to me is the claim that it had a greater intelligence than our most advanced algorithms or human thought processes through some naturalistic self-organizing physical system similar to Pask’s metallic threads. 
 
-In fact, it does work as described under contrived circumstances. These kinds of experiments are few and far between. There are also many great examples of experiments being done to design automata between intelligent mushrooms that fall into this category [1] .
+In fact, it does work as described under contrived circumstances. These kinds of experiments are few and far between. There are also many great examples of experiments being done to design automata between intelligent mushrooms that fall into this category [1].
 
 [0] NP-complete Problems and Physical Reality - https://www.scottaaronson.com/papers/npcomplete.pdf
 
