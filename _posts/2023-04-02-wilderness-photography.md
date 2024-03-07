@@ -8,20 +8,25 @@ Some recent hiking photos that I wanted to showcase. I have been hiking a lot mo
 
 <br><br>
 
-![Photo 1](/assets/images/wilderness.png)
+![Photo 1](/assets/images/wilderness_1.jpg)
 <br><br>
 
-![Photo 2](/assets/images/wilderness.png)
+![Photo 2](/assets/images/wilderness_2.jpg)
 <br><br>
 
-![Photo 3](/assets/images/wilderness.png)
+![Photo 3](/assets/images/wilderness_3.jpg)
 <br><br>
 
-![Photo 4](/assets/images/wilderness.png)
+![Photo 4](/assets/images/wilderness_4.jpg)
 <br><br>
 
-![Photo 5](/assets/images/wilderness.png)
+![Photo 5](/assets/images/wilderness_5.jpg)
 <br><br>
 
-![Photo 6](/assets/images/wilderness.png)
+![Photo 6](/assets/images/wilderness_6.jpg)
 <br><br>
+
+![Photo 7](/assets/images/wilderness_7.jpg)
+<br><br>
+
+
