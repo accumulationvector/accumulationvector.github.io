@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About"
+title: "about"
 author: "accumulation-vector"
 permalink: /about/
 ---
