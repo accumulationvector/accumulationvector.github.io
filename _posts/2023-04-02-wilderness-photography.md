@@ -11,9 +11,6 @@ Some recent hiking photos that I wanted to showcase. I have been hiking a lot mo
 ![Photo 1](/assets/images/wilderness_1.jpg)
 <br><br>
 
-![Photo 2](/assets/images/wilderness_2.jpg)
-<br><br>
-
 ![Photo 3](/assets/images/wilderness_3.jpg)
 <br><br>
 
