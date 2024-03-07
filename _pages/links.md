@@ -21,13 +21,14 @@ These are in reverse chronological order.
 - [Singularity Institute: Stategic Plan 2011](https://intelligence.org/files/strategicplan2011.pdf) - [Archive](https://web.archive.org/web/20230314232405/https://intelligence.org/files/strategicplan2011.pdf) <br>
 
 - [Iroh Computer](https://github.com/n0-computer/iroh) - [Archive](https://archive.is/rszir) <br>
->Iroh is a protocol for syncing & moving bytes. Bytes of any size, on any device. At its core, it's a peer-2-peer network built on a magic socket that establishes QUIC connections between peers.<br> Peers request and provide blobs of opaque bytes that are incrementally verified by their BLAKE3 hash during transfer.<br>
+>Iroh is a protocol for syncing & moving bytes. Bytes of any size, on any device. At its core, it's a peer-2-peer network built on a magic socket that establishes QUIC connections between peers. Peers request and provide blobs of opaque bytes that are incrementally verified by their BLAKE3 hash during transfer.<br>
 
 ## February 2024
 
 - [LGProxy](https://telescope.timd.io/) - [Archive](https://archive.is/LiK5c) <br>
 
 - [Umineko: The Opium Of The Magics by Gwern](https://gwern.net/review/umineko) - [Archive](https://archive.is/yeo3H)<br>
+Gwern apparently has several similar opinions to me on Umineko, though I liked it a lot more than he did apparently. I was going to write an Umineko post but now that I've seen Gwern already has one I'm not sure I want to.
 
 - [Metamour-regular Polyamorous Relationships and Graphs](https://arxiv.org/pdf/2005.14121v4.pdf)<br>
 
@@ -42,6 +43,7 @@ These are in reverse chronological order.
 - [The Annotated S4](https://srush.github.io/annotated-s4/) - [Archive](https://archive.is/KWPXt)<br>
 
 - [Ciro Santilli's Homepage (三西猴的主页)](https://cirosantilli.com/) - [Archive](https://archive.is/PL8A5)<br>
+A very odd website run by the man who I believe operates the 'archive' service I use to archive links across this website. Very mysterious.
 
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/title.html) - [Archive](https://archive.is/qrwRk)<br>
 
@@ -64,13 +66,14 @@ These are in reverse chronological order.
 ## November 2023
 
 - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/) - [Archive](https://archive.is/5TOE0)<br>
+There have been several similar discussions to this on Hacker News, and they always capture my interest. I don't generally use anything other than checklists and textfiles for my own productivity anymore. It is just much easier to keep everything in an app like Obsidian.
 
 - [On the Round Complexity of the Shuffle Model](https://arxiv.org/pdf/2009.13510.pdf)<br>
 
 - [On the Feasibility of Internet-Scale Author Identification](https://www.cs.princeton.edu/~arvindn/publications/author-identification-draft.pdf)<br>
 
 - [Mircea Popescu's Urbit Poker Bet](http://trilema.com/2013/so-this-urbit-thing/) - [Archive](https://archive.ph/ZCzGA)<br>
-
+A historical post about how useless Urbit is as an operating system, and the difficulty of using it to write non-trivial pieces of software. Years later it is still exceedingly difficult to write non-trivial software that can run on Urbit.
 
 ## October 2023
 
@@ -239,6 +242,7 @@ These are in reverse chronological order.
 - [The China Africa Project](https://www.youtube.com/channel/UC6fA3urPopcM6OzH5Ylg2cw)<br>
 
 - [Why Isn’t There More Progress in Philosophy?](http://www.consc.net/papers/progress.pdf) - [Lecture Video](https://www.youtube.com/watch?v=uUfz6oahp2Q)<br>
+A really fun paper that attempts to survey the opinions of professional philosophers globally to see which issues have some level of consensus. Some of the results of the poll are quite unexpected actually. 
 
 - [Scalable Onion Routing with Torsk](https://www-users.cs.umn.edu/~hoppernj/torsk-ccs.pdf)<br>
 >We introduce Torsk, a structured peer-to-peer low-latency anonymity protocol. Torsk is designed as an interoperable replacement for the relay selection and directory service of the popular Tor anonymity network, that decreases the bandwidth cost of relay selection and maintenance from quadratic to quasilinear while introducing no new attacks on the anonymity provided by Tor, and no additional delay to connections made via Tor. <br>
@@ -254,6 +258,7 @@ These are in reverse chronological order.
 - [A Survey of Published Attacks on Intel SGX](https://arxiv.org/abs/2006.13598) - [PDF](https://arxiv.org/pdf/2006.13598.pdf)<br>
 
 - [The Policy Analysis Market (and FutureMAP) Archive](http://mason.gmu.edu/~rhanson/policyanalysismarket.html) - [Archive](https://archive.is/qGsOx)<br>
+One of the historical pages on the controversial prediction market created by Robin Hanson.<br>
 
 - [Cyberpunk Manifestos Zone ](http://www.streettech.com/bcp/BCPgraf/manifestosTOC.html) - [Archive](https://archive.is/YwBvO)<br>
 
@@ -342,6 +347,7 @@ These are in reverse chronological order.
 - [Reconciling Semantics and Reflection](http://fare.tunes.org/tmp/phd/thesis.pdf)<br>
 
 - [Proofs and Types by Girard](http://www.paultaylor.eu/stable/Proofs+Types.html) - [PDF](http://www.paultaylor.eu/stable/prot.pdf)<br>
+Of particular interest here are the foundational chapters on linear logic and types.<br>
 
 - [General Intellect Unit Podcast](https://www.youtube.com/channel/UC8eJxj3louBy4KakVsiOnvQ)<br>
 
@@ -366,6 +372,7 @@ Hosted by [Smuggler](https://opaque.link/) and [Frank Braun](https://frankbraun.
 - [Deanonymizing Tor Circuits (Feb 2020)](https://www.hackerfactor.com/blog/index.php?/archives/868-Deanonymizing-Tor-Circuits.html) - [Archive](httsp://archive.is/Wm8lW)<br>
 
 - [How to Share a Secret by Adi Shamir (1979)](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf)<br>
+It is amazing to see just how simplistic a lot of older research was. It was so easy back in the day to just write down a couple pages of thoughts, a handful of citations, and still be published.<br>
 
 - [US DOJ Calls Bitcoin Mixing ‘a Crime’ in Arrest of Software Developer](https://www.coindesk.com/us-doj-calls-bitcoin-mixing-a-crime-in-arrest-of-software-developer) - [Archive](https://archive.is/hpz2l)<br>
 >Larry Harmon was arrested earlier this week for allegedly participating in a money-laundering conspiracy worth more than $300 million in cryptocurrency involving darknet marketplace AlphaBay. However, the family of the Coin Ninja CEO claims he was never involved with AlphaBay.<br><br>
