@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "contact"
+title: "Contact"
 author: "accumulation-vector"
 permalink: /contact/
 ---
