@@ -33,6 +33,9 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 14. [The Origins of Consciousness In The Breakdown of The Bicameral Mind](https://accumulationvector.com/books/14-2024/) by Julian Jaynes
 15. [Erotism: Death and Sensuality](https://accumulationvector.com/books/15-2024/) by Georges Bataille
 16. [Heart beat, Drum beat](https://accumulationvector.com/books/16-2024/) by Somnath Bhatt with Moad Musbahi
+17. [Heavy Traffic IV](https://accumulationvector.com/books/17-2024/) by Various Authors
+18. [Contempt (Il disprezzo)](https://accumulationvector.com/books/18-2024/) by  Alberto Moravia 
+19. [The Hermetic Deleuze: Philosophy and Spiritual Ordeal](https://accumulationvector.com/books/19-2024/) by Joshua Ramey
 
 ## Planned Reads 2024
 15. Dark Deleuze by Andrew Culp
