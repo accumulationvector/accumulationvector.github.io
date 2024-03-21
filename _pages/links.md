@@ -9,6 +9,18 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
+## 2024
+
+- [Unbounded Nondeterminism: a Landscape for the Philosopher of Computing Slides](https://programme.hypotheses.org/files/2019/06/cardone_daylight.pdf) - [Video Link](https://webtv.univ-lille.fr/video/10392/edgar-daylight-and-felice-cardone-unbounded-nondeterminism-an-introduction-for-the-philosopher-of-computing) <br>
+
+- [Escaping the Löbian Obstacle](https://www.lesswrong.com/posts/gbNLvkGuGcmSFFpSE/escaping-the-loebian-obstacle) - [Archive](https://archive.is/g1wiy) <br>
+
+- [Tiling Agents for Self-Modifying AI, and the Löbian Obstacle](https://intelligence.org/files/TilingAgentsDraft.pdf) <br>
+
+- [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper) - [PDF](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf) - [Archive](https://archive.is/Y9BCU) <br>
+
+- [Walkthrough of the Tiling Agents for Self-Modifying AI paper](https://www.lesswrong.com/posts/QGrX3qK3qxQYK9D4C/walkthrough-of-the-tiling-agents-for-self-modifying-ai-paper) - [Archive](https://archive.is/EH0t9) <br>
+
 ## March 2024
 
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - [Archive](https://archive.is/qtPF6) <br>
