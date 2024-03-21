@@ -57,3 +57,15 @@ The oddness of the challenge is also designed to stop excuses from being made. I
 By picking something that nobody cares about, like a bird on a windowsill this objection can't really be raised. There isn't an army of people attempting to keep birds from my windowsill or trying desperately to get birds onto their own windows. If anything most people are trying to get birds away from their windows, not toward them. More birds for me I suppose.
 
 These experiments have been done thousands of times and failed each time, but still, people try to sell each other on the idea that they can change the world without actually putting in the work to do so. If I want birds to land on my windowsill, I have to put in the work to make it happen myself by putting birdseed there. 
+
+### Update March 2024
+
+In the spirit of honesty, I would like to say that when my friend who I made the bet above with came to visit me this month an interesting thing happened. To be more specific, a series of interesting things happened. First, the minute they stepped foot into my house as they were passing by a window I saw a pigeon finally land on the outside of it. Ironically enough, they did not end up seeing the pigeon themselves vbecause they were not paying attention, but I immediately saw the pigeon sitting there and as they passed by the windowsill it flew away.
+
+There are a couple caveats to this, one is that I have seen pigeons nesting above my door on that side of the house (my neighbors also have a large pigeon coop that houses homing pigeons in it) on that side of my house. I have in fact seen pigeons on that side of the house and heard them many times before this. I have not ever really seen them outside of any window in my house though until the moment at which the person I was betting with arrived at my house.
+
+THe other caveat worth pointing out is that the window which was the one I was actually betting on, was not the one that the bird landed on. A bird has never landed on the window that was part of the bet with or without this person being here. All along I thought that it would be pretty easy for a bird to land on some window of my house, so I am not particularly impressed by the fact that it landed. I am however impressed by the coincidental coinciding of it landing with this person setting foot inside of my house for the first time. This kind of coincidence adds a pretty neat datapoint for the things discussed above.
+
+Similarly to all alleged incidents of magical synchronicities occuring, it never occurred in the way that was actually asked, and the task at hand was so mundane as to be plausible in any scenario. By this I mean, if I had asked for a lizard or beaver to occur outside my window and then there happened to be one, I would be 10000x more impressed. These kinds of extreme things never happen though really.
+
+
