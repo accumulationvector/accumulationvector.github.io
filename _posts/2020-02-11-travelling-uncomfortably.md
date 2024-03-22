@@ -33,3 +33,9 @@ There is something really captivating about these kinds of texts, especially if 
 The idea of placing yourself into an explicitly uncomfortable situation and enjoying the range of freedom it provides can hit people like a ton of bricks if they have no prior exposure. Of course, now the entire Crimethinc individualist freegan lifestyle idea is entirely played out and demonized by many people.
 
 There is still value in the mindset provided by these texts and this worldview, especially in terms of minimalistic travel. The flexibility of existing within this mindset while traveling is valuable by itself, even if only partially.
+
+### Sections to add
+
+I recently revisited this thought because of a friend who was riding a greyhound bus across the country. They were taken aback by how bad quality the greyhound service was. I think anyone that has rode a greyhound in the past 10 years can attest to the fact that whatever the brand previously signified, now it signifies decay and desperation.
+
+This is in part becuase of a ruthless gutting of the brands corporate structure in a takeover move that is currently ramping up and ongoing. The cost cutting measures that are in place are nothing short of dramatic. 
