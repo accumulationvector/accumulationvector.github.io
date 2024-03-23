@@ -9,7 +9,7 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
-## 2024
+## April 2024
 
 - [Unbounded Nondeterminism: a Landscape for the Philosopher of Computing Slides](https://programme.hypotheses.org/files/2019/06/cardone_daylight.pdf) - [Video Link](https://webtv.univ-lille.fr/video/10392/edgar-daylight-and-felice-cardone-unbounded-nondeterminism-an-introduction-for-the-philosopher-of-computing) <br>
 
