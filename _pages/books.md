@@ -48,3 +48,7 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 22. The Totality Is Incomplete: Collected Essays of Alex Gorrion
 23. Little Anatomy of the Physical Unconscious by Hans Bellmer 
 25. Witchcraft and the Gay Counterculture by Arthur Evans
+26. The Little Typer by Daniel Friedman
+27. The Mind's I by Douglas Hofstadter
+28. The Red Army Faction, A Documentary History: Volume 2 by J. Smith
+29. Mannahatta: A Natural History of New York City by Eric Sanderson
