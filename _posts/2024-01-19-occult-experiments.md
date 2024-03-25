@@ -60,12 +60,21 @@ These experiments have been done thousands of times and failed each time, but st
 
 ### Update March 2024
 
-In the spirit of honesty, I would like to say that when my friend who I made the bet above with came to visit me this month an interesting thing happened. To be more specific, a series of interesting things happened. First, the minute they stepped foot into my house as they were passing by a window I saw a pigeon finally land on the outside of it. Ironically enough, they did not end up seeing the pigeon themselves vbecause they were not paying attention, but I immediately saw the pigeon sitting there and as they passed by the windowsill it flew away.
+In the spirit of honesty, I would like to say that when my friend who I made the bet above with came to visit me this month an interesting thing happened. To be more specific, a series of interesting things happened. 
+
+First, the minute they stepped foot into my house as they were passing by a window I saw a pigeon finally land on the outside of it. Ironically enough, they did not end up seeing the pigeon themselves because they were not paying attention, but I immediately saw the pigeon sitting there and as they passed by the windowsill it flew away.
 
 There are a couple caveats to this, one is that I have seen pigeons nesting above my door on that side of the house (my neighbors also have a large pigeon coop that houses homing pigeons in it) on that side of my house. I have in fact seen pigeons on that side of the house and heard them many times before this. I have not ever really seen them outside of any window in my house though until the moment at which the person I was betting with arrived at my house.
 
-THe other caveat worth pointing out is that the window which was the one I was actually betting on, was not the one that the bird landed on. A bird has never landed on the window that was part of the bet with or without this person being here. All along I thought that it would be pretty easy for a bird to land on some window of my house, so I am not particularly impressed by the fact that it landed. I am however impressed by the coincidental coinciding of it landing with this person setting foot inside of my house for the first time. This kind of coincidence adds a pretty neat datapoint for the things discussed above.
+The other caveat worth pointing out is that the window which was the one I was actually betting on, was not the one that the bird landed on. A bird has never landed on the window that was part of the bet with or without this person being here. 
+
+All along I thought that it would be pretty easy for a bird to land on some window of my house, so I am not particularly impressed by the fact that it landed. I am however impressed by the coincidental coinciding of it landing with this person setting foot inside of my house for the first time. This kind of coincidence adds a pretty neat datapoint for the things discussed above.
 
 Similarly to all alleged incidents of magical synchronicities occuring, it never occurred in the way that was actually asked, and the task at hand was so mundane as to be plausible in any scenario. By this I mean, if I had asked for a lizard or beaver to occur outside my window and then there happened to be one, I would be 10000x more impressed. These kinds of extreme things never happen though really.
+
+Another thought that has occured to me that I did not go into above because it is a bit too harsh and causes the conversation to die prematurely if made is that the above requires me to create a distinction between acausal material actions "make matter appear out of nowhere are break physical laws about conservation of matter" and some other form of magical action within the world. 
+
+I think that in reality every single action related to a given stochastic process is largely deterministic downstream from the world-state that exists upon making the 'wish'. So you kind of have to be able to point to some 'random' bit that you can flip somewhere down the line. This bit flipping forms a acausal material action within the world, just at a level that is easier to sweep under the rug. 
+
 
 
