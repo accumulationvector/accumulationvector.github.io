@@ -5,7 +5,7 @@ author: "accumulation-vector"
 permalink: /supplements/
 ---
 
-Here is just a list of nootropics and supplements I've tried at various times and my opinion on these. Some of these I've taken only a few times or over the course of a single month and other things I have attempted to take over much longer periods of time. 
+Here is a list of nootropics and supplements I've tried at various times and my opinion on these. Some of these I've taken only a few times or over the course of a single month and other things I have attempted to take over much longer periods of time. 
 
 So not all of these are things that I am currently taking, and even those things that I am currently taking, some of them are very sporadic and mixed. I don't have any long-term data on most of these because I am not super strict about my regimen. If you want that kind of data look elsewhere. 
 
@@ -39,11 +39,18 @@ There was quite a strong effect with this one and ended up being quite a story. 
 
 After puking and no longer taking the supplement I had no futher issues whatsoever. It definitely had a strong effect. To be fair, I'm not sure if it was the actual pinecone or some contaminant in the supplement (which is not unheard of in TCM manufacturing). Either way I would not recommend trying this supplement to anyone.
 
+## Chromium
+
+
 ## Spirolactone
 
 ## Dong Chong Xia Cao 冬虫夏草 (Chinese Cordyceps Powder)
 
 ## Ge Jie 蛤蚧 (Chinese Gecko Powder)
+
+Gecko powder is kind of interesting, in Chinese TCM it is said to tonify the lung and kidneys which I have no idea what that means honestly. 
+
+There is one study I'll [link here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725337/) which seems to show anti-tumor effects in animal studies for various types of cancers. Which seems to be an interesting and valid result. 
 
 ## Ashwaganda
 
