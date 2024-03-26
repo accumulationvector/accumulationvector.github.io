@@ -36,19 +36,37 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 17. [Heavy Traffic IV](https://accumulationvector.com/books/17-2024/) by Various Authors
 18. [Contempt (Il disprezzo)](https://accumulationvector.com/books/18-2024/) by  Alberto Moravia 
 19. [The Hermetic Deleuze: Philosophy and Spiritual Ordeal](https://accumulationvector.com/books/19-2024/) by Joshua Ramey
+20. [BORDERLAND Doodle Special Edition](https://accumulationvector.com/books/20-2024/) by Acky Bright
+21. [Mannahatta: A Natural History of New York City](https://accumulationvector.com/books/21-2024/) by Eric Sanderson
 
 ## Planned Reads 2024
-15. Dark Deleuze by Andrew Culp
-16. The Uberfication of the University by Gary Hall
-17. Philosophy of the Tourist by Hiroki Azuma
-18. The Question Concerning Technology in China by Yuk Hui
-19. Synthetic Philosophy of Contemporary Mathematics by Fernando Zalamea
-20. Introduction to Evolutionary Computation
-21. Black, Brown, & Beige: Surrealist Writings from Africa and the Diaspora by Franklin Rosemont
-22. The Totality Is Incomplete: Collected Essays of Alex Gorrion
-23. Little Anatomy of the Physical Unconscious by Hans Bellmer 
-25. Witchcraft and the Gay Counterculture by Arthur Evans
-26. The Little Typer by Daniel Friedman
-27. The Mind's I by Douglas Hofstadter
-28. The Red Army Faction, A Documentary History: Volume 2 by J. Smith
-29. Mannahatta: A Natural History of New York City by Eric Sanderson
+01. [Dark Deleuze]() by Andrew Culp
+16. [The Uberfication of the University]() by Gary Hall
+18. [Philosophy of the Tourist]() by Hiroki Azuma
+19. [The Question Concerning Technology in China]() by Yuk Hui
+20. [Synthetic Philosophy of Contemporary Mathematics]() by Fernando Zalamea
+21. [Introduction to Evolutionary Computation]()
+22. [Black, Brown, & Beige: Surrealist Writings from Africa and the Diaspora]() by Franklin Rosemont
+23. [The Totality Is Incomplete: Collected Essays of Alex Gorrion]()
+24. [Little Anatomy of the Physical Unconscious]() by Hans Bellmer 
+25. [Witchcraft and the Gay Counterculture]() by Arthur Evans
+26. [The Little Typer]() by Daniel Friedman
+27. [The Mind's I]() by Douglas Hofstadter
+28. [The Red Army Faction, A Documentary History: Volume 2]() by J. Smith
+29. [Conspiracist Manifesto]() by Anonymous
+30. [Dividuum: Machinic Capitalism and Molecular Revolution]() by Gerald Raunig
+31. [When the Word Becomes Flesh]() by Paolo Virno
+32. [The Last Messiah]() by Paul Wessel Zapffe
+33. [Boredom and Art: Passions of the Will To Boredom]() by Julian Jason Haladyn
+34. [Weird Realism: Lovecraft and Philosophy]() by Graham Harman
+35. [Omnicide: Mania, Fatality, and the Future-In-Delirium]() by Jason Mohaghegh
+36. [Aesthetics After Finitude]() by Various Authors
+37. [The Revenge of Reason]() by Peter Wolfendale
+38. [Applied Ballardianism]() by Simon Sellars
+39. [A Short History of Decay]() by Emil Cioran
+40. [Male Fantasies: Volume 1 & 2]() by Klaus Theweleit
+41. [The Power of Nothingness]() by Alexandra David-Neel
+42. [Venus in Furs]() by Leopold von Sacher-Masoch
+43. [Philosophy in the Boudoir]() by de Sade
+44. [The Wild Boys: A Book of the Dead]() by William S. Burroughs
+45. [LIVEBLOG]() by Megan Boyle
