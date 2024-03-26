@@ -70,3 +70,27 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 43. [Philosophy in the Boudoir]() by de Sade
 44. [The Wild Boys: A Book of the Dead]() by William S. Burroughs
 45. [LIVEBLOG]() by Megan Boyle
+46. [Banco]() by Henri Charriere
+47. [Papillon]() by Henri Charriere
+48. [The Devil's Anarchy: The Sea Robberies of the Most Famouis Pirate]() by Stephen Snelders
+49. [Sade: A Sudden Abyss]() by Annie Le Brun
+50. [Xoros: Exploring a Time and Place in Greece]() by Anonymous
+51. [Corrosive Consciousness]() by Bellamy Fitzpatrick
+52. [Black Blossoms at the End of the World]() by Invecchiare Selvatico
+53. [Writing Degree Zero]() by Roland Barthes
+54. [The Fight for Turtle Island]() by Aragorn Moser
+55. [Max Stirner's Political Spectrography]() by Fabian Luduena
+56. [The End of Anarchism?]() by Luigi Galleani
+57. [Questioning Technology: A Critical Anthology]() by Various Authors
+58. [The Right To Be Greedy]() by For Ourselves
+59. [The Philosophy of Disenchantment]() by Edgar Saltus
+60. [Women of Plogoff]() by Anonymous
+61. [Freedom's Disorder]() by Massimo Passamani
+62. [Tame Words from a Wild Heart]() by Jean Weir
+63. [Mesrine: The Life and Death of a Supercrook]() by Carey Schofield
+64. [Eternity by The Stars]() by Louis-Auguste Blanqui
+65. [Cop-Out: The Significance of Aufhebengate]() Sam Fanto
+66. [Civil or Subversive: Individualist Writings from the UK]() by Anonymous
+67. [Cracks in a Grey Sky]() by Do or Die
+68. [Beneath The Underground]() by Bob Black
+69. [Outrage: An Anarchist Memoir of the Penal Colony]() by Clement Duval
