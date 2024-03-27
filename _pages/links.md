@@ -11,6 +11,8 @@ These are in reverse chronological order.
 
 ## April 2024
 
+- [How The CIA Infiltrated The World's Literature](https://www.vice.com/en/article/pgp53z/how-the-cia-infiltrated-the-worlds-literature) - [Archive](https://archive.is/s3mxK)<br>
+
 - [Unbounded Nondeterminism: a Landscape for the Philosopher of Computing Slides](https://programme.hypotheses.org/files/2019/06/cardone_daylight.pdf) - [Video Link](https://webtv.univ-lille.fr/video/10392/edgar-daylight-and-felice-cardone-unbounded-nondeterminism-an-introduction-for-the-philosopher-of-computing) <br>
 
 - [Escaping the Löbian Obstacle](https://www.lesswrong.com/posts/gbNLvkGuGcmSFFpSE/escaping-the-loebian-obstacle) - [Archive](https://archive.is/g1wiy) <br>
