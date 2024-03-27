@@ -9,7 +9,7 @@ permalink: /archive/
 
 - February 16, 2024 >> [Deleuze Explained Simply Pt.1](https://accumulationvector.com/2024-02-16/deleuzian-explained)
 
-- February 10, 2024 >> [Nagel Writing](https://accumulationvector.com/2024-02-10/nagel-bat)
+- February 10, 2024 >> [The Nagelian Implications of Brain Interfaces](https://accumulationvector.com/2024-02-10/nagel-bat)
 
 - Janarury 20, 2024 >> [Gordon Pask's Experiments](https://accumulationvector.com/2024-01-20/gordon-pask-thought)
 
@@ -25,7 +25,7 @@ permalink: /archive/
 
 - November 05, 2023 >> [Crypto-Destituent Power](https://accumulationvector.com/2023-11-05/cryptodestituent-part-1)
 
-- October 22, 2023 >> [Umineko Notes]()
+- October 22, 2023 >> [Umineko: Frustrating Ourselves For Fun]()
 
 - April 02, 2023 >> [Wilderness Photography](https://accumulationvector.com/2023-04-02/wilderness-photography)
 
