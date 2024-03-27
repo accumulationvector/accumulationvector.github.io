@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Umineko Frustrating Ourselves For Fun"
+title:  "Umineko: Frustrating Ourselves For Fun"
 author: "accumulation-vector"
 ---
 
