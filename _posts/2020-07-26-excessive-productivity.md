@@ -49,3 +49,6 @@ The other important thing is not trying to work as fast on things that I'm actua
 I feel like I've almost optimized to the point that I'm able to orient my life around fun and interesting projects rather than tedious busywork.
 
 This represents my sole contribution to the endlessly growing body of useless productivity articles online.
+
+### Update March 2024
+
