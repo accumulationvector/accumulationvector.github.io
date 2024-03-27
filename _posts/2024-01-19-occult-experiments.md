@@ -72,9 +72,13 @@ All along I thought that it would be pretty easy for a bird to land on some wind
 
 Similarly to all alleged incidents of magical synchronicities occuring, it never occurred in the way that was actually asked, and the task at hand was so mundane as to be plausible in any scenario. By this I mean, if I had asked for a lizard or beaver to occur outside my window and then there happened to be one, I would be 10000x more impressed. These kinds of extreme things never happen though really.
 
-Another thought that has occured to me that I did not go into above because it is a bit too harsh and causes the conversation to die prematurely if made is that the above requires me to create a distinction between acausal material actions "make matter appear out of nowhere are break physical laws about conservation of matter" and some other form of magical action within the world. 
+Another thought that has occured to me that I did not go into above because it is a bit too harsh and causes the conversation to die prematurely if made, is that the above requires me to create a distinction between acausal material actions (i.e.make matter appear out of nowhere are break physical laws about conservation of matter) and some other form of magical action within the world. 
 
-I think that in reality every single action related to a given stochastic process is largely deterministic downstream from the world-state that exists upon making the 'wish'. So you kind of have to be able to point to some 'random' bit that you can flip somewhere down the line. This bit flipping forms a acausal material action within the world, just at a level that is easier to sweep under the rug. 
+I think that in reality, every single action related to a given stochastic process is largely deterministic downstream from the world-state that exists upon making the 'wish'. So you kind of have to be able to point to some 'random' bit that you can flip somewhere down the line. This bit flipping forms a acausal material action within the world, just at a level that is easier to sweep under the rug. 
+
+The reason why it isn't useful to go into this is that most people who practice magic get confused by it, and also it opens up a kind of debate about if physical determinism exists. I love this kind of debate and have a very strong stance on it, but I don't think that most people who are arguing if magic is real or not care to have a nuanced argument about how quantum gravity works.
+
+I will simply state that the two are one and the same, they just feel different when you talk about them. The kind of magic that very obviously breaks fundamental laws of physics (making things materialize from nothing) and other types of magic (alter some stochastic process to generate 'luck') both violate fundamental physical properties as they are currently understood. Neither is possible for the same reason in my opinion, but again, pointing this out kills off fun conversations.
 
 
 
