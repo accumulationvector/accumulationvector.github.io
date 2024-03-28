@@ -65,7 +65,7 @@ This concept of the interplay with the researcher or other objects within a larg
 
 It seems clear to me that someone like Pask, if alive today, might see the smartphone or the way we use Google search, or Youtube algorithms as a cybernetic feedback system through which we and the computer algorithm combine together to create some dynamic. Pask would see the world around us as massive cybernetic feedback loops filled with intelligent processes simultaneously creating feedback into each other.
 
-The work of Pask is a radical departure from this kind of sterile observational-based or thought-based experiment we have been reading. Instead, he tries to actually construct dynamic looping systems himself from scratch. 
+The work of Pask is a radical departure from this kind of sterile observational-based or thought-based experiment. Instead, he tries to actually construct dynamic looping systems himself from scratch. 
 
 He tried to actualize the theories everyone talks about through some experimental means. Other authors, attempt to characterize the systems that exist in the world or that we seem to experience ourselves. These are descriptive examples by philosophers who never attempt to create ways to put theory into practice. 
 
