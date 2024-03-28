@@ -119,6 +119,22 @@ I do not take nicotine while I'm travelling, so anytime I travel I go without it
 
 This is a total meme, no quantity of it seems to do anything whatsoever. I suspected as much going in but I took it as a joke around my friends saying I was going 'plant mode' over and over again. The most value you can get out of this is taking it as a joke.
 
+## Black Elderberry
+
+Similar to a few other things, this is largely a meme. Even in a non-meme sense the casual wisdom about this is that it is something that you take when you are sick with a cold or some immune system issue.
+
+It really only boosts the immune system and doesn't really seem to provide any value beyond that. Along with Turmeric I only ever take this in combination with 5 other things, so I have not seen any evidence that it does much of anything for sickness or immune function.
+
+If you want immune function don't even bother with these kinds of supplements, just take Zinc. There really is no purpose to be fiddling around with these when Zinc works so well.
+
+## Turmeric Powder
+
+Being a fan of Turmeric in my cooking, I've always kind of secretly hoped that it would have some genuine health benefit. Sadly that does not seem to really be the case. There are quite a few studies that show a potential benefit in the categories of 
+
+These potential health benefits seem incredibly slight to the point of basically non-existence. I haven't seen a single study that convinced me of the value. This is in a combination supplement that I take with a few other things, so I happen to take this nearly everyday by chance.
+
+Regardless of the frequency that I inject Turmeric powder or supplement pills, I have not seen any notable changes in my body or mind.
+
 ## Bacopa Monnieri
 
 Bacopa is supposedly used as a form of anti dementia drug. I bought a raw powder form of this and took it over the course of around 2 months and saw no improvements whatsoever. 
