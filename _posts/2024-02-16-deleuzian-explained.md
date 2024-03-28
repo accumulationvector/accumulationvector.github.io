@@ -21,7 +21,6 @@ People often point out the overlap between Deleuze and Foucault, and it is true 
 
 He goes through the history and reads his postmodern critique into that history. D&G boil everything down to 'desire is policed' and create an overarching critical system of society, and then they develop methods for how they think this can be overcome (Foucault does not really do this, he just speaks critically).
 
-
 Most of the time D&G focus on the micro-structures of domination as opposed to this greater macrostructures. The easiest way to explain how they user this is to say that there are certain things which I desire, which aren't actually restricted of me but I don't do them regardless. 
 
 As an example I could rip something up or tear a door down and make a table out of it, but the microstructures of domination and value judgements which exist in my head stop me. These structures might cause me to stop even if I wholeheartedly desire to do it. The world is a complex layering of controls which cause me to do certain things inside my own desires.
@@ -44,3 +43,22 @@ The point of schizoanalysis isn't literally to say 'go act schizophrenic' to say
 
 The question D&G are saying we should ask is kind of like 'what would I do if I had no restrictions as if I were a schizophrenic in this situation?', this is really the basis for what they are trying to get at. I also want to apologize to anyone reading this who might actually be schizophrenic or have some sort of similar mental disorder. These are the words of authors writing in the 1970s, and I feel like a lot of this is quite frankly kind of insensitive. 
 
+The ultimate goal, as a book I'll quote from puts it quite well is the following: "decentred subjects, liberated from what they see to be the terror of fixed and unified identities, and free to become dispersed and multiple, reconstituted as new types of subjectivities and bodies."
+
+So what does this mean? It means that they are trying to breakdown the notion of self or some form of a fixed identity. They try to create this kind of decentralized form of 'being', that is made up of multiple people or new 'bodies'. They often put this as new 'subjectivities' in their writing (see also the work of Agamben). 
+
+They are in effect trying to create experimental modes of 'being' or 'entities' outside of what we generally are used to. The form that these take in a post-technological era are fairly trivial, and you might not think of them as creating new forms of subjectivity because they are so common place that we take them for granted.
+
+It is easy to make up random examples, there might be a decentralized being that is a joint multiplicity that exists between me and a friend. This can be said to exist in some way and we can quantify this as a 'body' in and of itself. 
+
+A more pedestrian example might be creating a VR character that I portray as a Vtuber. Maybe this entity exists such that my friend plays it sometimes and I play as the character other times. We swap out our bodies/personalities constantly as we interact with one another in a VR space. All of this feels pretty standard in the world we live in though.
+
+The goal here is not to simply do silly combinations or constructions for their own sake but to do these in order to design some new form of revolutionary warfare against society at a grand scale. 
+
+The smaller examples are a lot easier to understand and comprehend but none of these smaller examples I'm giving are what the authors want to build out. They want revolutionary tools that exist in some chaotic mode of alternative forms of 'being' and 'becoming'.
+
+I keep referencing VR but Deleuze does this very explicitly in a non-technologically minded way. He has a whole theory of 'virtuality' and the linkages between these experimental structures and the way they are enabled by tech, is one of the main reasons why technology is often called postmodern by philosophers.
+
+With tech, it becomes incredibly trivial to act in this postmodern mode of being that these older philosophers envisioned. As I said before, it really is so similar that you probably don't even think about what you are doing as being radical whatsoever.
+
+In a historical context however, this is where the ideas and concepts originate. The texts give a much more complicated and overall larger formulation of these concepts and the possibilities of them in a non-technologically bound way.
