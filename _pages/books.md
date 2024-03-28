@@ -38,6 +38,7 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 19. [The Hermetic Deleuze: Philosophy and Spiritual Ordeal](https://accumulationvector.com/books/19-2024/) by Joshua Ramey
 20. [BORDERLAND Special Edition](https://accumulationvector.com/books/20-2024/) by Acky Bright
 21. [Mannahatta: A Natural History of New York City](https://accumulationvector.com/books/21-2024/) by Eric Sanderson
+22. [Xoros: Exploring a Time and Place in Greece](https://accumulationvector.com/books/22-2024/) by Anonymous
 
 ## Planned Reads 2024
 01. [Dark Deleuze]() by Andrew Culp
@@ -74,7 +75,6 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 47. [Papillon]() by Henri Charriere
 48. [The Devil's Anarchy: The Sea Robberies of the Most Famouis Pirate]() by Stephen Snelders
 49. [Sade: A Sudden Abyss]() by Annie Le Brun
-50. [Xoros: Exploring a Time and Place in Greece]() by Anonymous
 51. [Corrosive Consciousness]() by Bellamy Fitzpatrick
 52. [Black Blossoms at the End of the World]() by Invecchiare Selvatico
 53. [Writing Degree Zero]() by Roland Barthes
@@ -89,7 +89,7 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 62. [Tame Words from a Wild Heart]() by Jean Weir
 63. [Mesrine: The Life and Death of a Supercrook]() by Carey Schofield
 64. [Eternity by The Stars]() by Louis-Auguste Blanqui
-65. [Cop-Out: The Significance of Aufhebengate]() Sam Fanto
+65. [Cop-Out: The Significance of Aufhebengate]() by Sam Fanto
 66. [Civil or Subversive: Individualist Writings from the UK]() by Anonymous
 67. [Cracks in a Grey Sky]() by Do or Die
 68. [Beneath The Underground]() by Bob Black
