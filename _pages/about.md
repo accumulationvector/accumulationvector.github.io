@@ -18,3 +18,5 @@ These are really just going to be my personal impressions on each thing and are 
 Here I am going to post some of my thoughts on various supplements that I've tried over the years, several of these are pretty weird supplements.
 
 In particular, I have tried various forms of TCM that I think most people in the west have not tried or have very little experience with.
+
+
