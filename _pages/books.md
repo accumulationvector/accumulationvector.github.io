@@ -36,7 +36,7 @@ My aim is generally to read 100 books each year if I can as a kind of minimum ba
 17. [Heavy Traffic IV](https://accumulationvector.com/books/17-2024/) by Various Authors
 18. [Contempt (Il disprezzo)](https://accumulationvector.com/books/18-2024/) by  Alberto Moravia 
 19. [The Hermetic Deleuze: Philosophy and Spiritual Ordeal](https://accumulationvector.com/books/19-2024/) by Joshua Ramey
-20. [BORDERLAND Special Edition](https://accumulationvector.com/books/20-2024/) by Acky Bright
+20. [BORDERLINE Special Edition](https://accumulationvector.com/books/20-2024/) by Acky Bright
 21. [Mannahatta: A Natural History of New York City](https://accumulationvector.com/books/21-2024/) by Eric Sanderson
 22. [Xoros: Exploring a Time and Place in Greece](https://accumulationvector.com/books/22-2024/) by Anonymous
 
