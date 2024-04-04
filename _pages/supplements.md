@@ -97,7 +97,7 @@ Nothing else to say about this one there is one study I'll [link here](https://w
 
 ## Ashwaganda
 
-No effect, useless drug.
+This has basically no effect, and a couple of the times I have taken it, correlated with me having a headache. So if there is any impact I would characterize it fully as a negative impact. It did not seem to do anything, and while research has stated that there are possible effects, the research I saw seemed like garbage.
 
 ## Nicotine (Gum)
 
@@ -196,7 +196,9 @@ I think that it is generally recommended to be taken with something else in orde
 
 ## L-Theanine
 
-Not placebo, net-positive calming effect.
+Not placebo, net-positive calming effect. I use this not daily but probably several times a week. From what I can tell it does not work as well when mixed into various energy drinks. The amount per each energy drink seems too low to really do much of anything.
+
+When I take it as a raw supplement powder I take it in much higher proportions than what is commonly recommended. The effect is much stronger and much more noticable.
 
 ## Kratom
 
