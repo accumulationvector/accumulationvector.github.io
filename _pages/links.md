@@ -9,6 +9,23 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
+## May 2024
+
+- [Productivity Through Self-loyalty](https://www.lesswrong.com/posts/TqepFWjxWdZvQnkJr/productivity-through-self-loyalty) - [Archive](https://archive.is/yHVNp) <br>
+
+- [Walkthrough of "Definability of Truth in Probabilistic Logic"](https://www.lesswrong.com/posts/kFDikC8kbukAhSnbe/walkthrough-of-definability-of-truth-in-probabilistic-logic) - [Archive](https://archive.is/3p5sB) <br>
+
+- []() - []()
+
+- []() - []()
+
+
+- []() - []()
+
+- []() - []()
+
+- 
+
 ## April 2024
 
 - [How The CIA Infiltrated The World's Literature](https://www.vice.com/en/article/pgp53z/how-the-cia-infiltrated-the-worlds-literature) - [Archive](https://archive.is/s3mxK)<br>
