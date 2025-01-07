@@ -9,22 +9,48 @@ On past sites, I have just had a static linkroll on the side of a page but this 
 
 These are in reverse chronological order.
 
+## January 2025
+
+- [On Ray Brassier and Prometheanism](https://dreamflesh.com/essay/ray-brassier-prometheanism/) - [Archive](https://archive.is/aFX7L)<br>
+
+- [The Obliqueness Thesis](https://unstableontology.com/2024/09/19/the-obliqueness-thesis/) - [Archive](https://archive.is/HkUfX)<br>
+
+- []() - []()
+
+- []() - []()
+
+- []() - []()
+
+
+# 2025
+
+
+## December 2024
+
+- [EDEN - A Practical, SNARK-friendly combinator VM and ISA](https://eprint.iacr.org/2023/1021) - [PDF](https://eprint.iacr.org/2023/1021.pdf) <br>
+
+- []() - []()
+
+- []() - []()
+
+- []() - []()
+
+- []() - []()
+
+
 ## May 2024
 
 - [Productivity Through Self-loyalty](https://www.lesswrong.com/posts/TqepFWjxWdZvQnkJr/productivity-through-self-loyalty) - [Archive](https://archive.is/yHVNp) <br>
 
 - [Walkthrough of "Definability of Truth in Probabilistic Logic"](https://www.lesswrong.com/posts/kFDikC8kbukAhSnbe/walkthrough-of-definability-of-truth-in-probabilistic-logic) - [Archive](https://archive.is/3p5sB) <br>
 
-- []() - []()
+- [USA v. James Dalton Bell](https://cryptome.org/usa-v-jdb-dt.htm) - [Archive](https://archive.is/w1WLB) <br>
+
+- [Oration on the Dignity of Man](http://bactra.org/Mirandola/) - [Archive](https://archive.is/L5eYl)
 
 - []() - []()
 
-
 - []() - []()
-
-- []() - []()
-
-- 
 
 ## April 2024
 
