@@ -27,6 +27,10 @@ The spray seemed to last for around 1 hour as far as I could tell, and was quite
 
 I've used the nasal spray several times pretty consistently and I would say that it is definitely a real nootropic which does something, and causes my body to feel different when on it. Most of the time I try to differentiate between placebo and non-placebo but with this it is right on the line between the two. I can't definitely say either way sadly, this gets my recommendation though.
 
+## Adrafinil
+
+To be written when I do some more experiments. 
+
 ## Estradiol
 
 There was a months long period when I experimented with taking 2mg of estrogen daily, with great results overall. I would definitely consider taking more of it in the future or possibly taking one of the [non-feminizing variants](https://en.wikipedia.org/wiki/17%CE%B1-Estradiol). It definitely makes you more emotional in a noticable way, which is a net negative side effect, but not to a degree that impacted my life in any non-trivial way.
@@ -258,4 +262,6 @@ Since this is the case, I feel the need to make it up by taking vitamin C. I don
 This strikes me as odd because I've always been taught that the majority of Vitamin C is not actually bioavailable at any given time when you take these supplements they are mostly going to waste. The data linked above seems to show that the only way to get any significant health benefit from them is to take them in a way that is very wasteful. 
 
 
+## Vitamin D 
 
+To be written when I take more and do a bit more experimenting.
