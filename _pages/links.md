@@ -29,11 +29,11 @@ These are in reverse chronological order.
 
 - [EDEN - A Practical, SNARK-friendly combinator VM and ISA](https://eprint.iacr.org/2023/1021) - [PDF](https://eprint.iacr.org/2023/1021.pdf) <br>
 
-- []() - []()
+- [Willow Protocol](https://willowprotocol.org) - []()
 
-- []() - []()
+- [](https://p2panda.org) - []()
 
-- []() - []()
+- [](https://cabal.chat) - []()
 
 - []() - []()
 
