@@ -15,7 +15,7 @@ These are in reverse chronological order.
 
 - [The Obliqueness Thesis](https://unstableontology.com/2024/09/19/the-obliqueness-thesis/) - [Archive](https://archive.is/HkUfX)<br>
 
-- [Testing For AI Scheming](https://guive.substack.com/p/testing-for-ai-scheming) - [Archive]() <br>
+- [Testing For AI Scheming](https://guive.substack.com/p/testing-for-ai-scheming) - [Archive](https://archive.is/wSpqv) <br>
 
 - []() - [Archive]() <br>
 
