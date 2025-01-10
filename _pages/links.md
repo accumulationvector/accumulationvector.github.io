@@ -15,7 +15,7 @@ These are in reverse chronological order.
 
 - [The Obliqueness Thesis](https://unstableontology.com/2024/09/19/the-obliqueness-thesis/) - [Archive](https://archive.is/HkUfX)<br>
 
-- [Testing For AI Scheming](https://guive.substack.com/p/testing-for-ai-scheming) - []()
+- [Testing For AI Scheming](https://guive.substack.com/p/testing-for-ai-scheming) - []() <br>
 
 - []() - []()
 
@@ -29,11 +29,11 @@ These are in reverse chronological order.
 
 - [EDEN - A Practical, SNARK-friendly combinator VM and ISA](https://eprint.iacr.org/2023/1021) - [PDF](https://eprint.iacr.org/2023/1021.pdf) <br>
 
-- [Willow Protocol](https://willowprotocol.org) - []()
+- [Willow Protocol](https://willowprotocol.org) - [Archive]() <br>
 
-- [](https://p2panda.org) - []()
+- [p2panda](https://p2panda.org) - [Archive]() <br>
 
-- [](https://cabal.chat) - []()
+- [Cabal Chat](https://cabal.chat) - [Archive]() <br>
 
 - []() - []()
 
@@ -46,7 +46,7 @@ These are in reverse chronological order.
 
 - [USA v. James Dalton Bell](https://cryptome.org/usa-v-jdb-dt.htm) - [Archive](https://archive.is/w1WLB) <br>
 
-- [Oration on the Dignity of Man](http://bactra.org/Mirandola/) - [Archive](https://archive.is/L5eYl)
+- [Oration on the Dignity of Man](http://bactra.org/Mirandola/) - [Archive](https://archive.is/L5eYl)<br>
 
 - []() - []()
 
