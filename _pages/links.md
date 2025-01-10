@@ -15,11 +15,11 @@ These are in reverse chronological order.
 
 - [The Obliqueness Thesis](https://unstableontology.com/2024/09/19/the-obliqueness-thesis/) - [Archive](https://archive.is/HkUfX)<br>
 
-- [Testing For AI Scheming](https://guive.substack.com/p/testing-for-ai-scheming) - []() <br>
+- [Testing For AI Scheming](https://guive.substack.com/p/testing-for-ai-scheming) - [Archive]() <br>
 
-- []() - []()
+- []() - [Archive]() <br>
 
-- []() - []()
+- []() - []() <br>
 
 
 # 2025
@@ -35,7 +35,7 @@ These are in reverse chronological order.
 
 - [Cabal Chat](https://cabal.chat) - [Archive]() <br>
 
-- []() - []()
+- []() - [Archive]() <br>
 
 
 ## May 2024
