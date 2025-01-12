@@ -17,9 +17,9 @@ These are in reverse chronological order.
 
 - [Testing For AI Scheming](https://guive.substack.com/p/testing-for-ai-scheming) - [Archive](https://archive.is/wSpqv) <br>
 
-- []() - [Archive]() <br>
+- [MirageVPN - a VPN as an unikernel](https://robur-coop.github.io/miragevpn-handbook/) - [Archive]() <br>
 
-- []() - []() <br>
+- []() - [Archive]() <br>
 
 
 # 2025
@@ -48,9 +48,9 @@ These are in reverse chronological order.
 
 - [Oration on the Dignity of Man](http://bactra.org/Mirandola/) - [Archive](https://archive.is/L5eYl)<br>
 
-- []() - []()
+- [Gosling Protocol](https://gosling.technology/gosling-spec.xhtml) - [Archive]() <br>
 
-- []() - []()
+- []() - [Archive]()<br>
 
 ## April 2024
 
